@@ -1,0 +1,35 @@
+name: Update Galpopath post index
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 20 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-post-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate post index
+        run: npm run update
+        env:
+          BLOGGER_API_KEY: ${{ secrets.BLOGGER_API_KEY }}
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+
+      - name: Commit updated JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Galpopath post index
+          file_pattern: data/post-index.json
+

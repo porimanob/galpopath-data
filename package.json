@@ -1,0 +1,10 @@
+{
+  "name": "galpopath-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-post-index.js"
+  }
+}
+
