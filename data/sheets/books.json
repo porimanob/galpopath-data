@@ -1,5 +1,2814 @@
 {
-  "generatedAt": "2026-07-11T15:39:32.350Z",
-  "total": 0,
-  "items": []
+  "generatedAt": "2026-07-11T15:46:07.305Z",
+  "total": 351,
+  "items": [
+    {
+      "book_id": "1",
+      "book_name": "রুদ্রের আবির্ভাব ও অন্যান্য গল্প",
+      "book_starting_letter": "র",
+      "book_type": "গল্প",
+      "writer_name": "অচিন্ত্যকুমার সেনগুপ্ত",
+      "link_to_download": "https://drive.google.com/file/d/1zIpDs2D7JzRZdfwpMrYScSKb67vo7mtH/view?usp=share_link"
+    },
+    {
+      "book_id": "2",
+      "book_name": "শত গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "অচিন্ত্যকুমার সেনগুপ্ত",
+      "link_to_download": "https://drive.google.com/file/d/1PyxESR89eoPHdxXZXvhobxqbHatVUt-3/view?usp=share_link"
+    },
+    {
+      "book_id": "3",
+      "book_name": "মানুষের ঘরবাড়ি",
+      "book_starting_letter": "ম",
+      "book_type": "উপন্যাস",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1Jrb5CMmYPu-fZ7mh5kdy3SPl5C4N52DF/view?usp=share_link"
+    },
+    {
+      "book_id": "4",
+      "book_name": "নীলকণ্ঠ পাখির খোঁজে",
+      "book_starting_letter": "ন",
+      "book_type": "উপন্যাস",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1fAEQnju-4JUjX9_td6ES4d6PGedBLqa7/view?usp=sharing"
+    },
+    {
+      "book_id": "5",
+      "book_name": "সমুদ্র মানুষ",
+      "book_starting_letter": "স",
+      "book_type": "উপন্যাস",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1JknhI867PVsKlcc87MgAyzzHxb0XYs8O/view?usp=share_link"
+    },
+    {
+      "book_id": "6",
+      "book_name": "অলৌকিক জলযান",
+      "book_starting_letter": "অ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1xh4-wyG3-VmbqcWk-1FWfscY677gfm89/view?usp=share_link"
+    },
+    {
+      "book_id": "7",
+      "book_name": "ঈশ্বরের বাগান ১ খণ্ড",
+      "book_starting_letter": "ঈ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1FpYGFr94gWcqD1YZCOmP1oRKkKumcwxP/view?usp=share_link"
+    },
+    {
+      "book_id": "8",
+      "book_name": "ঈশ্বরের বাগান ২ খণ্ড",
+      "book_starting_letter": "ঈ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1e38lQj5qbms5CLE89x8hxpO-BsMwLNvE/view?usp=share_link"
+    },
+    {
+      "book_id": "9",
+      "book_name": "একালের বাংলা গল্প",
+      "book_starting_letter": "এ",
+      "book_type": "গল্প",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1uCuz73Em1KjCt81DnNhxdTOd0vrJ5Va6/view?usp=share_link"
+    },
+    {
+      "book_id": "10",
+      "book_name": "সাহিত্যের সেরা গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "অতীন বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1fXgvb0Uc80uhDJl1E2qrSuT1nprfIEQx/view?usp=share_link"
+    },
+    {
+      "book_id": "11",
+      "book_name": "রচনাবলী",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "অদ্বৈত মল্লবর্মন",
+      "link_to_download": "https://drive.google.com/file/d/1LLvHpg0P4gz_cOBTABZoNvM14KH1M5rn/view?usp=share_link"
+    },
+    {
+      "book_id": "12",
+      "book_name": "তিতাস একটি নদীর নাম",
+      "book_starting_letter": "ত",
+      "book_type": "উপন্যাস",
+      "writer_name": "অদ্বৈত মল্লবর্মন",
+      "link_to_download": "https://drive.google.com/file/d/1ywV2OSKnIfJf2j8RyAJrSraCh8eH94z6/view?usp=share_link"
+    },
+    {
+      "book_id": "13",
+      "book_name": "উপন্যাস",
+      "book_starting_letter": "উ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অদ্বৈত মল্লবর্মন",
+      "link_to_download": "https://drive.google.com/file/d/1T-trQ1mO6ZD8w66Cx5j12ckJpLDzWQci/view?usp=share_link"
+    },
+    {
+      "book_id": "14",
+      "book_name": "পরীযান ও অন্যান্য গল্প",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "অনিল ঘড়াইয়",
+      "link_to_download": "https://drive.google.com/file/d/1lYdJeIiFtu9ClVGw0maffGoO4E9U-1kA/view?usp=sharing"
+    },
+    {
+      "book_id": "15",
+      "book_name": "অন্য গল্প",
+      "book_starting_letter": "অ",
+      "book_type": "গল্প",
+      "writer_name": "কমল চক্রবর্তী",
+      "link_to_download": "https://drive.google.com/file/d/1arXsNKYj0IKvOtU6pekjUZ9-cCCnqQA_/view?usp=share_link"
+    },
+    {
+      "book_id": "16",
+      "book_name": "উদ্ধারণপুরের ঘাট",
+      "book_starting_letter": "উ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অবধূত",
+      "link_to_download": "https://drive.google.com/file/d/1dLB2sfrZbpAMyW5XVZ7WuLmatF_nn5Ja/view?usp=share_link"
+    },
+    {
+      "book_id": "17",
+      "book_name": "অভিজাত গল্প সংকলন",
+      "book_starting_letter": "অ",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1-BpgKI3tk_601BplOC_B75u_Nyc98PqG/view?usp=share_link"
+    },
+    {
+      "book_id": "18",
+      "book_name": "রহু চণ্ডালের হাড়",
+      "book_starting_letter": "র",
+      "book_type": "উপন্যাস",
+      "writer_name": "অভিজিৎ সেন",
+      "link_to_download": "https://drive.google.com/open?id=1UniJ99rBVQJqeT5mYzJkkHjsIapGA3ZP"
+    },
+    {
+      "book_id": "19",
+      "book_name": "অন্ধকারের নদী",
+      "book_starting_letter": "অ",
+      "book_type": "অন্যান্য",
+      "writer_name": "অভিজিৎ সেন",
+      "link_to_download": "https://drive.google.com/file/d/1Hld_QeIcrtDXiKeWMm8MTuVJdnba-Inn/view?usp=share_link"
+    },
+    {
+      "book_id": "20",
+      "book_name": "বহ্নিলতা",
+      "book_starting_letter": "ব",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমর মিত্",
+      "link_to_download": "https://drive.google.com/file/d/1BPw8S5Thr_l43MUhTk5-a6o3Ui8XtpBL/view?usp=sharing"
+    },
+    {
+      "book_id": "21",
+      "book_name": "মিত্রের শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "ম",
+      "book_type": "গল্প",
+      "writer_name": "অম",
+      "link_to_download": "https://drive.google.com/open?id=1pO_tFeK3BoYEsvfyDHhKWZgcaS9FCSWc"
+    },
+    {
+      "book_id": "22",
+      "book_name": "অশ্বচরিত",
+      "book_starting_letter": "অ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমর মিত্",
+      "link_to_download": "https://drive.google.com/file/d/1LBv9QKSZM-dlU0BbULwhqUFpu3gxb5Jj/view?usp=share_link"
+    },
+    {
+      "book_id": "23",
+      "book_name": "একটি গ্রাম একটি নদী",
+      "book_starting_letter": "এ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমর মিত্",
+      "link_to_download": "https://drive.google.com/file/d/1o1g1ZpOTJv9L9Q5qkoVp5OlhptSYJu0v/view?usp=share_link"
+    },
+    {
+      "book_id": "24",
+      "book_name": "পুনরুত্থান",
+      "book_starting_letter": "প",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমর মিত্",
+      "link_to_download": "https://drive.google.com/file/d/1fRYBbpfI11JAzJFL62XEjAh8gU47fXaA/view?usp=share_link"
+    },
+    {
+      "book_id": "25",
+      "book_name": "জননী সমুদ্র",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমর মিত্",
+      "link_to_download": "https://drive.google.com/file/d/1ycPX6n5Ty9nJD9jnsZjMkyseYr8gqAxb/view?usp=share_link"
+    },
+    {
+      "book_id": "26",
+      "book_name": "দশমী দিবসে",
+      "book_starting_letter": "দ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমর মিত্",
+      "link_to_download": "https://drive.google.com/open?id=1hw6mDb-kCoY1QyPNgVrugXN_azL9BDWE"
+    },
+    {
+      "book_id": "27",
+      "book_name": "দীপিতার ঘরে রাত্রি",
+      "book_starting_letter": "দ",
+      "book_type": "গল্প",
+      "writer_name": "অমিয়ভূষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/open?id=1wbrh8lcLzVdLDSZ793YrCeS88Bx59KIt"
+    },
+    {
+      "book_id": "28",
+      "book_name": "পঞ্চ কন্যা",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "অমিয়ভূষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/open?id=1ux6emIDRKMESo1Kgvivf0eZculyrmX7c"
+    },
+    {
+      "book_id": "29",
+      "book_name": "তাসিলার মেয়র",
+      "book_starting_letter": "ত",
+      "book_type": "অন্যান্য",
+      "writer_name": "অমিয়ভূষণ মজুদা",
+      "link_to_download": "https://drive.google.com/file/d/16rPE-H73xhcGQSBzQL7PTeeM2BPtSJ9d/view?usp=sharing"
+    },
+    {
+      "book_id": "30",
+      "book_name": "গড় শ্রীখণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমিয়ভূষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1ek8iCCl1HP1Xi21gEokRe0R7rC9wtAPb/view?usp=share_link"
+    },
+    {
+      "book_id": "31",
+      "book_name": "মহিষকুড়ার উপকথা",
+      "book_starting_letter": "ম",
+      "book_type": "উপন্যাস",
+      "writer_name": "অমিয়ভূষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1KnXzVwqfg0ZjW4HKRMzp6JY00b9dU-oy/view?usp=share_link"
+    },
+    {
+      "book_id": "32",
+      "book_name": "রচনাবলী ১ খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "অমিয়ভুষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1C5kjWL3v3qyNotiUAoXpzIWAIQ4c7Esu/view?usp=share_link"
+    },
+    {
+      "book_id": "33",
+      "book_name": "রচনাবলী ২ খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "অমিয়ভুষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1u7rWGREGgsMzhDl0kUs3zJe_e3dt3ym_/view?usp=share_link"
+    },
+    {
+      "book_id": "34",
+      "book_name": "রচনাবলী ৩ খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "অমিয়ভুষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1YxGoBm_GDnPvDpdQzvTa3-QvLrggNVvc/view?usp=share_link"
+    },
+    {
+      "book_id": "35",
+      "book_name": "রচনাবলী ৪ খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "অমিয়ভুষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1OE1mZlcdOytI-mnO-O8wyk8jn252kwLk/view?usp=share_link"
+    },
+    {
+      "book_id": "36",
+      "book_name": "রচনাবলী ৫ খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "অমিয়ভুষণ মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/16x8WnEFBTpCW-lrczmigrhI43ikT23Bt/view?usp=share_link"
+    },
+    {
+      "book_id": "37",
+      "book_name": "অসমীয় গল্প সংকলন",
+      "book_starting_letter": "অ",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1FqUhxugS1D0JaiRlyGnsbXH72BY3NlpV/view?usp=share_link"
+    },
+    {
+      "book_id": "38",
+      "book_name": "কারাবাস",
+      "book_starting_letter": "ক",
+      "book_type": "উপন্যাস",
+      "writer_name": "অহনা বিশ্বাস",
+      "link_to_download": "https://drive.google.com/file/d/1Ulm5JJkaZU4u4C9H6AfZ1skzL3mUZdjU/view?usp=share_link"
+    },
+    {
+      "book_id": "39",
+      "book_name": "রচনাসমগ্র ১ খন্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "আখতারুজ্জামান ইলিয়াস",
+      "link_to_download": "https://drive.google.com/file/d/1oNJyM4pbJEdkPSwodIwmaR7wd4VlfVmU/view?usp=share_link"
+    },
+    {
+      "book_id": "40",
+      "book_name": "চিলেকোঠার সেপাই",
+      "book_starting_letter": "চ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আখতারুজ্জামান ইলিয়াস",
+      "link_to_download": "https://drive.google.com/file/d/1oVAY_yIoyPKwSdRmlJm6H4fqLRlmEPr1/view?usp=share_link"
+    },
+    {
+      "book_id": "41",
+      "book_name": "খোয়াবনামা",
+      "book_starting_letter": "খ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আখতারুজ্জামান ইলিয়াস",
+      "link_to_download": "https://drive.google.com/file/d/1j_zejTPHFX9ATaso54Y8PuvXtEe4s_HX/view?usp=share_link"
+    },
+    {
+      "book_id": "42",
+      "book_name": "ডাইরি",
+      "book_starting_letter": "ড",
+      "book_type": "অন্যান্য",
+      "writer_name": "আখতারুজ্জামান ইলিয়স",
+      "link_to_download": "https://drive.google.com/file/d/1Q6L0QWE5qLALfrtIL8b462NWIe6gSWxs/view?usp=share_link"
+    },
+    {
+      "book_id": "43",
+      "book_name": "গল্প ১ খণ্ড (মানবেন্দ্র বন্দ্যোপাধ্যায় সম্পাদিত)",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "আধুনিক ভারত",
+      "link_to_download": "https://drive.google.com/file/d/1WiYNraM3XyR1nd_g4zpR8wV5AwURRDpw/view?usp=share_link"
+    },
+    {
+      "book_id": "44",
+      "book_name": "গল্প ৩ খণ্ড (মানবেন্দ্র বন্দ্যোপাধ্যায় সম্পাদিত)",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "আধুনিক ভারত",
+      "link_to_download": "https://drive.google.com/file/d/1nKleVagFXVjhn8hTkX6JD97n8Cn-e5ds/view?usp=share_link"
+    },
+    {
+      "book_id": "45",
+      "book_name": "গল্প সঙ্কলন ২",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "আনন্দবাজা",
+      "link_to_download": "https://drive.google.com/file/d/1u6ujARYXqufhDUvIqXhVQP8njtaZdMKR/view?usp=share_link"
+    },
+    {
+      "book_id": "46",
+      "book_name": "সূর্য দীঘল বাড়ি",
+      "book_starting_letter": "স",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবু ইসহাক",
+      "link_to_download": "https://drive.google.com/file/d/1hxAn1sOKcqfB0bjneaa-ftZTWlKfUApf/view?usp=sharing"
+    },
+    {
+      "book_id": "47",
+      "book_name": "নির্বাচিত গল্প",
+      "book_starting_letter": "ন",
+      "book_type": "গল্প",
+      "writer_name": "আবু রুশদ",
+      "link_to_download": "https://drive.google.com/file/d/1mJiGaSUkN3WvcuJvPK-EpyE17IWZ-suZ/view?usp=sharing"
+    },
+    {
+      "book_id": "48",
+      "book_name": "ফুলবউ",
+      "book_starting_letter": "ফ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/17V6tuy1aEUNDwzKeezNvEO3MwepvN5AL/view?usp=sharing"
+    },
+    {
+      "book_id": "49",
+      "book_name": "মরুস্বর্গ",
+      "book_starting_letter": "ম",
+      "book_type": "অন্যান্য",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/1mh8vBcjypSkjcWPwDuziEPBaQLsnWExQ/view?usp=sharing"
+    },
+    {
+      "book_id": "50",
+      "book_name": "সাইদা বাই",
+      "book_starting_letter": "স",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/1-2hLmbo2Vblp7-YgoUfJdU98xrgukJxP/view?usp=share_link"
+    },
+    {
+      "book_id": "51",
+      "book_name": "রাজাবলি",
+      "book_starting_letter": "র",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/1JYDFjQJ0TK3O4kKlONeyFnC806sTPr2A/view?usp=share_link"
+    },
+    {
+      "book_id": "52",
+      "book_name": "জল মাটি ও আগুনের উপাখ্যান",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/1pFKP2_FKp4Q_ilzA7weSj0MxGLZMfVtB/view?usp=share_link"
+    },
+    {
+      "book_id": "53",
+      "book_name": "খুকুর উপাখ্যান ও অন্যান্য",
+      "book_starting_letter": "খ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশারের ৩ টি নভেলেট",
+      "link_to_download": "https://drive.google.com/file/d/1aJkpoo-JOYmva3DgxEdgwYwSFAJYzzNL/view?usp=share_link"
+    },
+    {
+      "book_id": "54",
+      "book_name": "অগ্নি বলাকা",
+      "book_starting_letter": "অ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/18podJBCj74PZ1ti9pNwFVFqGDvzAyjUH/view?usp=share_link"
+    },
+    {
+      "book_id": "55",
+      "book_name": "একই বৃন্তে",
+      "book_starting_letter": "এ",
+      "book_type": "উপন্যাস",
+      "writer_name": "আবুল বাশা",
+      "link_to_download": "https://drive.google.com/file/d/1rXj7O5fa2k9s1LeCS5_1O_lvyslv-iGQ/view?usp=share_link"
+    },
+    {
+      "book_id": "56",
+      "book_name": "গল্প",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "আবদুল মান্নান সৈয়দ",
+      "link_to_download": "https://drive.google.com/file/d/1iEvm_kFVroS9Qc7U7hvBztwgH2Nxzhqg/view?usp=share_link"
+    },
+    {
+      "book_id": "57",
+      "book_name": "সেরা গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "একশো বছ",
+      "link_to_download": "https://drive.google.com/file/d/1zjsHFJffMeGDd23E7tZN5hIg_0KusHSv/view?usp=share_link"
+    },
+    {
+      "book_id": "58",
+      "book_name": "অরুণকুমার মুখোপাধ্যায় সম্পাদিত",
+      "book_starting_letter": "অ",
+      "book_type": "গল্প",
+      "writer_name": "একুশটি বাংলা",
+      "link_to_download": "https://drive.google.com/file/d/1auLOfHtiDEqWgVkg5HRwyaE0_gfCNL4o/view?usp=share_link"
+    },
+    {
+      "book_id": "59",
+      "book_name": "গল্পচর্চা",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "উজ্জ্বলকুমার মজুমদা",
+      "link_to_download": "https://drive.google.com/file/d/1fVOxPDlpb8H1hYyuA7xP4hxitDzSUUI-/view?usp=sharing"
+    },
+    {
+      "book_id": "60",
+      "book_name": "বক ও বাঁশফুল",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "ওয়াসি আহমে",
+      "link_to_download": "https://drive.google.com/file/d/1sbJPLQlvWtZK8PR65nN7q8JeRGuXWgDC/view?usp=sharing"
+    },
+    {
+      "book_id": "61",
+      "book_name": "শৈত্যপ্রবাহ",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "ওয়াসি আহমে",
+      "link_to_download": "https://drive.google.com/file/d/1ObTeW3g_xqE-KHviBoTZTBOnmp0-4mAc/view?usp=sharing"
+    },
+    {
+      "book_id": "62",
+      "book_name": "নির্বাচিত গল্প",
+      "book_starting_letter": "ন",
+      "book_type": "গল্প",
+      "writer_name": "ওয়াসি আহমেদ",
+      "link_to_download": "https://drive.google.com/file/d/1pdyoH1iCyMcDAw9JowrvuF1KXLUHL5Z1/view?usp=sharing"
+    },
+    {
+      "book_id": "63",
+      "book_name": "বরফকল",
+      "book_starting_letter": "ব",
+      "book_type": "উপন্যাস",
+      "writer_name": "ওয়াসি আহমে",
+      "link_to_download": "https://drive.google.com/file/d/1T-jAjZ1YaVG0INc4V7C8BlkRfALS9Bul/view?usp=sharing"
+    },
+    {
+      "book_id": "64",
+      "book_name": "টিকিটাকা",
+      "book_starting_letter": "ট",
+      "book_type": "অন্যান্য",
+      "writer_name": "ওয়াসি আহমে",
+      "link_to_download": "https://drive.google.com/file/d/1TnzTBZj8-rXIL_JrKSirYvfUggr9p4YS/view?usp=sharing"
+    },
+    {
+      "book_id": "65",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "কবিতা সিংহ",
+      "link_to_download": "https://drive.google.com/file/d/1z7mkf9PA4U74COQJDPGTO2RT0wEMoywM/view?usp=share_link"
+    },
+    {
+      "book_id": "66",
+      "book_name": "কল্লোল গল্প সমগ্র",
+      "book_starting_letter": "ক",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1cp93TRMQ4g3Rwfn121qt6qb7ssvzmjKL/view?usp=share_link"
+    },
+    {
+      "book_id": "67",
+      "book_name": "কালীপ্রসন্ন সিংহ--হুতুম পেঁচার নকশা",
+      "book_starting_letter": "ক",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1sGOtNFauXh9OVO411x9AjgOClu5U7dAq/view?usp=share_link"
+    },
+    {
+      "book_id": "68",
+      "book_name": "কায়েস আহমেদ সমগ্র",
+      "book_starting_letter": "ক",
+      "book_type": "রচনাবলী",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1JKi1K6yaFxIRzWI1f-9As8QYc5S1xE31/view?usp=share_link"
+    },
+    {
+      "book_id": "69",
+      "book_name": "গল্পের মণিমালা ; প্রেমেন্দ্র মিত্রের সম্পাদনা",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1iX_GARSHRZiJ1mMsqp-OMUnsoKLhMwyi/view?usp=sharing"
+    },
+    {
+      "book_id": "70",
+      "book_name": "স্ব-নির্বাচিত গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "জগদীশ গুপ্ত",
+      "link_to_download": "https://drive.google.com/open?id=0Bym-wbTB4c_zZVJnYU9BcHhiT00"
+    },
+    {
+      "book_id": "71",
+      "book_name": "শ্রেষ্ঠ গল্প--সম্পাদনা আবদুল মান্নান সৈয়দ",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "জগদীশ গুপ্ত",
+      "link_to_download": "https://drive.google.com/open?id=1Y080M4jUIgWmxJKMzCRwUDiphNBZCCt8"
+    },
+    {
+      "book_id": "72",
+      "book_name": "জগদীশ গুপ্ত রচনাবলী ১ম খণ্ড",
+      "book_starting_letter": "জ",
+      "book_type": "রচনাবলী",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1se_hTfeG2Mc-Ex6G4xA_6TpSVwK1bJex"
+    },
+    {
+      "book_id": "73",
+      "book_name": "জগদীশ গুপ্ত রচনাবলী ২য় খণ্ড",
+      "book_starting_letter": "জ",
+      "book_type": "রচনাবলী",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1ZtjhhlIMzYyjHCVFdXp9hKKqmsFVeQkc"
+    },
+    {
+      "book_id": "74",
+      "book_name": "নন্দ আর কৃষ্ণা",
+      "book_starting_letter": "ন",
+      "book_type": "অন্যান্য",
+      "writer_name": "জগদীশ গুপ্ত",
+      "link_to_download": "https://drive.google.com/file/d/1aFwxvj-t2ojIib7Lz6Qfsncj1g1jcII2/view?usp=sharing"
+    },
+    {
+      "book_id": "75",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "জয়া মিত্",
+      "link_to_download": "https://drive.google.com/open?id=1XuSTsFhQeXAXV63HwH98qjDOCpWqRX_h"
+    },
+    {
+      "book_id": "76",
+      "book_name": "কিছু গল্প",
+      "book_starting_letter": "ক",
+      "book_type": "গল্প",
+      "writer_name": "জীবনানন্দ দাশ",
+      "link_to_download": "https://drive.google.com/file/d/1iWoOY2nPpfRK-EcytShVhDSQo_u36ZzE/view?usp=share_link"
+    },
+    {
+      "book_id": "77",
+      "book_name": "গল্পসমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "জ্যোতিরিন্দ্র নন্দী",
+      "link_to_download": "http://www.mediafire.com/file/1ap00k48m1k89z8/%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%B8%E0%A6%AE%E0%A6%97%E0%A7%8D%E0%A6%B0.pdf"
+    },
+    {
+      "book_id": "78",
+      "book_name": "তিন পরী",
+      "book_starting_letter": "ত",
+      "book_type": "উপন্যাস",
+      "writer_name": "জ্যোতিরিন্দ্র নন্দী",
+      "link_to_download": "https://drive.google.com/file/d/1OqhmQwHor8DAtt5QRM7Q2HdR_nj2FIm7/view?usp=sharing"
+    },
+    {
+      "book_id": "79",
+      "book_name": "আলালের ঘরের দুলাল",
+      "book_starting_letter": "আ",
+      "book_type": "উপন্যাস",
+      "writer_name": "টেকচাঁদ ঠাকু",
+      "link_to_download": "https://drive.google.com/open?id=1jxXUXyby3KnUDFnPoVl15gcIRfrNokdk"
+    },
+    {
+      "book_id": "80",
+      "book_name": "লিটিল ম্যাগাজিনের বাছাই গল্প",
+      "book_starting_letter": "ল",
+      "book_type": "গল্প",
+      "writer_name": "তন্ময় রুদ্",
+      "link_to_download": "https://drive.google.com/open?id=1feyvWkduYaw8N09BOEcmkKUy2v_I013b"
+    },
+    {
+      "book_id": "81",
+      "book_name": "বাঙালনামা",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "তপন রায়চৌধুরী",
+      "link_to_download": "https://drive.google.com/open?id=15FcO-aXuwugV7HUIYzX205vX8fnhK1-n"
+    },
+    {
+      "book_id": "82",
+      "book_name": "রোমন্থন অথবা ভীমরতিপ্রাপ্তর পরচরিতচর্চা",
+      "book_starting_letter": "র",
+      "book_type": "অন্যান্য",
+      "writer_name": "তপন রায়চৌধুরী",
+      "link_to_download": "https://drive.google.com/open?id=1kSyrurrSBd8QmbtxpzBUEY_kqBn-uQSF"
+    },
+    {
+      "book_id": "83",
+      "book_name": "স্বনির্বাচিত",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "তারাপদ রায়",
+      "link_to_download": "https://drive.google.com/file/d/1ku4GFLiLBXKDMKBkqIfRViMtwgGL7Jy3/view?usp=sharing"
+    },
+    {
+      "book_id": "84",
+      "book_name": "তারাপদ রায় গল্প সমগ্র ১",
+      "book_starting_letter": "ত",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1UJNm4OCghIK3wafMxtsZbP3GtsB4qONz"
+    },
+    {
+      "book_id": "85",
+      "book_name": "তারাপদ রায় গল্প সমগ্র ২",
+      "book_starting_letter": "ত",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1UJNm4OCghIK3wafMxtsZbP3GtsB4qONz"
+    },
+    {
+      "book_id": "86",
+      "book_name": "মাতাল সমগ্র",
+      "book_starting_letter": "ম",
+      "book_type": "রচনাবলী",
+      "writer_name": "তারাপদ রায়",
+      "link_to_download": "https://drive.google.com/file/d/1uLFpugCQS_Fg_nb_EVSBLbK3bzHThHEd/view?usp=sharing"
+    },
+    {
+      "book_id": "87",
+      "book_name": "বন্দ্যোপাধ্যায় শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "তারাশঙ্ক",
+      "link_to_download": "https://drive.google.com/open?id=1Fj1wD8OZjqB6zm_Mp2ON3wY3HP2RJA3a"
+    },
+    {
+      "book_id": "88",
+      "book_name": "রাই কমল",
+      "book_starting_letter": "র",
+      "book_type": "উপন্যাস",
+      "writer_name": "তারাশঙ্ক",
+      "link_to_download": "https://drive.google.com/open?id=1ITpbP6qizfWfZVpz1YiBn_bX6C5NK67p"
+    },
+    {
+      "book_id": "89",
+      "book_name": "কবি",
+      "book_starting_letter": "ক",
+      "book_type": "উপন্যাস",
+      "writer_name": "তারাশঙ্কর বন্দ্যোপাধ্য",
+      "link_to_download": "https://drive.google.com/file/d/1aVnESeygGDxqxJdO358syO3dc2CbP5M0/view?usp=sharing"
+    },
+    {
+      "book_id": "90",
+      "book_name": "মঞ্জুরী অপেরা",
+      "book_starting_letter": "ম",
+      "book_type": "উপন্যাস",
+      "writer_name": "তারাশঙ্ক",
+      "link_to_download": "https://drive.google.com/open?id=11F1FEsLY35fizqFWr_bFQ7p2IiuGlfcg"
+    },
+    {
+      "book_id": "91",
+      "book_name": "ময়না কোথায়",
+      "book_starting_letter": "ম",
+      "book_type": "অন্যান্য",
+      "writer_name": "ত্রৈলক্যনাথ মুখোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1fSDYbFEcR9ASJ2_zn4eyFEq4mjhpZUnC/view?usp=sharing"
+    },
+    {
+      "book_id": "92",
+      "book_name": "রচনাবলী",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "ত্রৈলক্যনাথ মুখোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1pzxIeBKBubl-6V_zgOapLipiCsnXKvfs/view?usp=sharing"
+    },
+    {
+      "book_id": "93",
+      "book_name": "দাঙ্গাবিরোধী গল্প",
+      "book_starting_letter": "দ",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1_qyOS7S-rZu35eHDsBzN1UPBCqosyiC8"
+    },
+    {
+      "book_id": "94",
+      "book_name": "১০০ গল্প",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "দাম্পত্য কলহ",
+      "link_to_download": "https://drive.google.com/file/d/1X5l1qX590wrgTPrJRbfN7mVqcYjnucvU/view?usp=sharing"
+    },
+    {
+      "book_id": "95",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "দিব্যেন্দু পালিত",
+      "link_to_download": "https://drive.google.com/file/d/1xyJtcpZqzYG6ev3XCDJMzEUQ2abACmHR/view?usp=sharing"
+    },
+    {
+      "book_id": "96",
+      "book_name": "প্রাণের গল্প",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "দুই বাংলা",
+      "link_to_download": "https://drive.google.com/open?id=0BxNxV0HDEKlhTktxYVR1VHVTb2M"
+    },
+    {
+      "book_id": "97",
+      "book_name": "গল্পকুঞ্জ",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "দেবর্ষি সারগীর ৫০টি",
+      "link_to_download": "https://drive.google.com/file/d/121z0EjqcjaVxcsQvmlbphFb13bQb2JJd/view?usp=sharing"
+    },
+    {
+      "book_id": "98",
+      "book_name": "১৩টি গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "দেবর্ষি সারগী",
+      "link_to_download": "https://drive.google.com/file/d/1LW-riR2i7L23n9dngCpC34EqMlWEEkLH/view?usp=sharing"
+    },
+    {
+      "book_id": "99",
+      "book_name": "জননী",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "দেবেশ রায়",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsU000blN6V3hHMUE"
+    },
+    {
+      "book_id": "100",
+      "book_name": "বিজিত ঘোষ সম্পাদিত",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "নকশাল আন্দোলন",
+      "link_to_download": "https://drive.google.com/file/d/1oO4jcQ6eY7OeLnxnodSnb-8tl6HEqV2i/view?usp=sharing"
+    },
+    {
+      "book_id": "101",
+      "book_name": "বাংলা গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "নারায়ণ গঙ্গোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=1Ss2M0Q8NSg4_WU1QaoSfBBiu_YlGs4Zg"
+    },
+    {
+      "book_id": "102",
+      "book_name": "গল্প সংগ্রহ",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "নারায়ণ গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1bpMBSsdpW1omrP10Mkm61m7KhaVbhLUR/view?usp=sharing"
+    },
+    {
+      "book_id": "103",
+      "book_name": "উড়ুক্কু",
+      "book_starting_letter": "উ",
+      "book_type": "উপন্যাস",
+      "writer_name": "নাসরীন জাহান",
+      "link_to_download": "https://drive.google.com/open?id=1UDJOmzEfgM3TdDc4KdtokVdv6n4mShKT"
+    },
+    {
+      "book_id": "104",
+      "book_name": "সেরা দশটি গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "নাসরীন জাহান",
+      "link_to_download": "https://drive.google.com/file/d/13iDzbypK7cTI6F9ymgt_blJmYTNZWbMc/view?usp=sharing"
+    },
+    {
+      "book_id": "105",
+      "book_name": "গল্প",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "নির্বাচিত রবিরা",
+      "link_to_download": "https://drive.google.com/open?id=1fuXnbH6lgh_DCP7KhnXz8gpA0gEPzaXr"
+    },
+    {
+      "book_id": "106",
+      "book_name": "পুঁই পালং গল্প",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "পূর্নেন্দু পত্রী",
+      "link_to_download": "https://drive.google.com/file/d/17J9SOJQgoGleVHMrYDooJY-Y419t4a1A/view?usp=sharing"
+    },
+    {
+      "book_id": "107",
+      "book_name": "গল্প সঙ্কলন",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "পূর্ব বাংলা",
+      "link_to_download": "https://drive.google.com/file/d/1SWGscizvxomdPHrdUsH8jPNP3Wh89Umu/view?usp=sharing"
+    },
+    {
+      "book_id": "108",
+      "book_name": "পৌরাণিক গল্প",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=0B_jrC3lFFRh-UUl1T3VxdU10VHc"
+    },
+    {
+      "book_id": "109",
+      "book_name": "৫০টি গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "প্রফুল্ল রা",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsTGRaWDRIVkFoYmM"
+    },
+    {
+      "book_id": "110",
+      "book_name": "মুখোপাধ্যায়ের শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "ম",
+      "book_type": "গল্প",
+      "writer_name": "প্রভাতকুমা",
+      "link_to_download": "https://drive.google.com/file/d/1VdBzCAlOnjt3O2o5TYe44TwgAOUdOF-a/view?usp=sharing"
+    },
+    {
+      "book_id": "111",
+      "book_name": "কেরী সাহেবের মুনসী",
+      "book_starting_letter": "ক",
+      "book_type": "উপন্যাস",
+      "writer_name": "প্রমথনাথ বিশী",
+      "link_to_download": "https://drive.google.com/open?id=1OFEQEbC7uv-99UBmVNYoE3q-3ggZ8ebr"
+    },
+    {
+      "book_id": "112",
+      "book_name": "লালকেল্লা",
+      "book_starting_letter": "ল",
+      "book_type": "উপন্যাস",
+      "writer_name": "প্রমথনাথ বিশী",
+      "link_to_download": "https://drive.google.com/open?id=15boSAd-zOSAcaMCoef1iWmFBO1ibTrNa"
+    },
+    {
+      "book_id": "113",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "প্রেমেন্দ্র মিত্",
+      "link_to_download": "http://www.mediafire.com/file/0jci43tzu6qzdp4/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA_%E0%A5%A4%E0%A5%A4_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0.pdf"
+    },
+    {
+      "book_id": "114",
+      "book_name": "৫০ টি প্রেমের গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "প্রেমেন্দ্র মিত্",
+      "link_to_download": "https://drive.google.com/file/d/1N8K1Fx0LTuGLs9b22VnvaqKMuueIy57L/view?usp=share_link"
+    },
+    {
+      "book_id": "115",
+      "book_name": "প্যারীচাঁদ মিত্র--আলালের ঘরের দুলাল",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1XbYZY73ohXotSpQO80dXGq7xOYVgg0xk"
+    },
+    {
+      "book_id": "116",
+      "book_name": "ছোটো গল্প ১৯৫৯ সালে বাংলা একাডেমী প্রকাশিত",
+      "book_starting_letter": "ছ",
+      "book_type": "গল্প",
+      "writer_name": "বাংলাদেশ",
+      "link_to_download": "https://drive.google.com/open?id=1M9a6uD5h8kSkQOGkmg7rNwKrzgjgFE4K"
+    },
+    {
+      "book_id": "117",
+      "book_name": "মৈত্রেয় জাতক",
+      "book_starting_letter": "ম",
+      "book_type": "উপন্যাস",
+      "writer_name": "বাণী বসু",
+      "link_to_download": "https://drive.google.com/file/d/1OGVEhqfCu8BpaH8xTnwKa0j4_jA3pNGa/view?usp=sharing"
+    },
+    {
+      "book_id": "118",
+      "book_name": "বাছাই গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "বিমল ক",
+      "link_to_download": "http://www.mediafire.com/file/jcrlfu1h4sgg6tr/%E0%A6%AC%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%87_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA__%E0%A5%A4%E0%A5%A4__%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%B2_%E0%A6%95%E0%A6%B0.pdf"
+    },
+    {
+      "book_id": "119",
+      "book_name": "সেরা বারোটি গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "বিমল ক",
+      "link_to_download": "https://drive.google.com/open?id=1ZUMOz_DBYhWds2lfrkEdlXWtBmVN5H-D"
+    },
+    {
+      "book_id": "120",
+      "book_name": "সরস গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "বিমল ক",
+      "link_to_download": "http://www.mediafire.com/file/bgudogstvu6tbg5/%E0%A6%B8%E0%A6%B0%E0%A6%B8_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA_-_%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%B2_%E0%A6%95%E0%A6%B0.pdf"
+    },
+    {
+      "book_id": "121",
+      "book_name": "সম্ভার",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "বিমল মিত্",
+      "link_to_download": "https://drive.google.com/open?id=0Bym-wbTB4c_zYl9ZdXlCbjljOWc"
+    },
+    {
+      "book_id": "122",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "বিভূতিভূষণ মুখোপাধ্যা",
+      "link_to_download": "https://drive.google.com/file/d/1r0753dubnOuyHc5ZHRMla33sOK2feQyG/view?usp=sharing"
+    },
+    {
+      "book_id": "123",
+      "book_name": "গল্পসমগ্র ১",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "বিভূতিভূষণ বন্দ্যোপাধ্যা",
+      "link_to_download": "https://drive.google.com/file/d/1IbQ3BxDRjgLM1OeRwHdKIk25lCX-6vfr/view?usp=sharing"
+    },
+    {
+      "book_id": "124",
+      "book_name": "স্বনির্বাচিত গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "বিভূতিভূষণ মুখোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=17Lz_8vPUXrwsggWfBkrfSY3lefClXeMO"
+    },
+    {
+      "book_id": "125",
+      "book_name": "প্রেমপত্র ও অন্যান্য গল্প",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "বুদ্ধদেব বসু",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsTmZhV0RoeC1ZX2M"
+    },
+    {
+      "book_id": "126",
+      "book_name": "তিথিডোর",
+      "book_starting_letter": "ত",
+      "book_type": "উপন্যাস",
+      "writer_name": "বুদ্ধদেব বসু",
+      "link_to_download": "https://drive.google.com/file/d/1mVP-C5uaOtrVxrUKaW1ijzZJPdTPko_S/view?usp=sharing"
+    },
+    {
+      "book_id": "127",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "ভগীরথ মিশ্",
+      "link_to_download": "https://drive.google.com/file/d/13LMgDdVk7aUdF_AvMbGw066IKLWC4aRM/view?usp=sharing"
+    },
+    {
+      "book_id": "128",
+      "book_name": "নববাবু বিলাস",
+      "book_starting_letter": "ন",
+      "book_type": "অন্যান্য",
+      "writer_name": "ভবানীচরণ বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/11u19yyJNlGEMsGOxuc891nKof2Jp4eyB/view?usp=sharing"
+    },
+    {
+      "book_id": "129",
+      "book_name": "নির্বাচিত গল্প",
+      "book_starting_letter": "ন",
+      "book_type": "গল্প",
+      "writer_name": "মতি নন্দী",
+      "link_to_download": "https://drive.google.com/open?id=0Bym-wbTB4c_zODZWTjhlbDBQMmc"
+    },
+    {
+      "book_id": "130",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "মতি নন্দী",
+      "link_to_download": "https://drive.google.com/file/d/1NmBhq1MtmSMmeWetYFHiuFBDoJpq0Bih/view?usp=sharing"
+    },
+    {
+      "book_id": "131",
+      "book_name": "অক্ষয় মালবেরি",
+      "book_starting_letter": "অ",
+      "book_type": "অন্যান্য",
+      "writer_name": "মণীন্দ্র গুপ্ত",
+      "link_to_download": "https://drive.google.com/open?id=1rW9ASYs2AzSDeloOZcJ4SY2s7YWEDUfd"
+    },
+    {
+      "book_id": "132",
+      "book_name": "আবাসভূমি",
+      "book_starting_letter": "আ",
+      "book_type": "উপন্যাস",
+      "writer_name": "মঞ্জু সরকা",
+      "link_to_download": "https://drive.google.com/open?id=1udhXN1Kh6WDJTJwgGmiSrab7xwRwU9E0"
+    },
+    {
+      "book_id": "133",
+      "book_name": "নিশিকুটুম্ব",
+      "book_starting_letter": "ন",
+      "book_type": "উপন্যাস",
+      "writer_name": "মনোজ বসু",
+      "link_to_download": "https://drive.google.com/file/d/16cN_ZNoT0A80J3x0yh6cnb2mXd5hKkmq/view?usp=sharing"
+    },
+    {
+      "book_id": "134",
+      "book_name": "বনমর্মর ও অন্যান্য গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "মনোজ বসু",
+      "link_to_download": "http://www.mediafire.com/file/nbjm8t9inyikqhw/%E0%A6%AC%E0%A6%A8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%B0_%E0%A6%93_%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA_-_%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%9C_%E0%A6%AC%E0%A6%B8%E0%A7%81.pdf"
+    },
+    {
+      "book_id": "135",
+      "book_name": "আধুনিক ভারতীয় গল্প ১ খণ্ড",
+      "book_starting_letter": "আ",
+      "book_type": "গল্প",
+      "writer_name": "মানবেন্দ্র বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1WiYNraM3XyR1nd_g4zpR8wV5AwURRDpw/view?usp=sharing"
+    },
+    {
+      "book_id": "136",
+      "book_name": "আধুনিক ভারতীয় গল্প ৩ খণ্ড",
+      "book_starting_letter": "আ",
+      "book_type": "গল্প",
+      "writer_name": "মানবেন্দ্র বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1nKleVagFXVjhn8hTkX6JD97n8Cn-e5ds/view?usp=sharing"
+    },
+    {
+      "book_id": "137",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "মানিক বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1fUuSY9v9Oiuf_GuDxX5-4m3H8Ukp5jpz/view?usp=sharing"
+    },
+    {
+      "book_id": "138",
+      "book_name": "পুতুল নাচের ইতিকথা",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "মানিক বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1QL82YQLHUNAIaM0Cjj7HHyTKLth65qjX/view?usp=sharing"
+    },
+    {
+      "book_id": "139",
+      "book_name": "পদ্মানদীর মাঝি",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "মানিক বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1k_ynYIWDqDxFF6KefJm8VFaa_azE1ken/view?usp=sharing"
+    },
+    {
+      "book_id": "140",
+      "book_name": "স্বনির্বাচিত গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "মানিক বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1yptnTU3wA1wDRUzE87iEcDoZ5jHTAdDP/view?usp=sharing"
+    },
+    {
+      "book_id": "141",
+      "book_name": "কালো বরফ",
+      "book_starting_letter": "ক",
+      "book_type": "উপন্যাস",
+      "writer_name": "মাহমুদুল হক",
+      "link_to_download": "https://drive.google.com/file/d/10errZq0kBr0WS5F5eYqMWaa6Ifg9wNnO/view?usp=sharing"
+    },
+    {
+      "book_id": "142",
+      "book_name": "পুর্ব বাংলার সংগ্রহ",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "মিহির আচার্য",
+      "link_to_download": "https://drive.google.com/open?id=1v_TMl5C0XNmKwDkLUzTXF4Nk4VEuZiGA"
+    },
+    {
+      "book_id": "143",
+      "book_name": "একুশ বিঘার বসত",
+      "book_starting_letter": "এ",
+      "book_type": "উপন্যাস",
+      "writer_name": "মিহির সেনগুপ্ত",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsb3dSNGR1WF9yTGs"
+    },
+    {
+      "book_id": "144",
+      "book_name": "আবুল হাসনাত সম্পাদিত",
+      "book_starting_letter": "আ",
+      "book_type": "গল্প",
+      "writer_name": "মুক্তিযুদ্ধ",
+      "link_to_download": "https://drive.google.com/file/d/1TYMeUZnJpj1ZKbJaAWmT0XjoumLJj9_-/view?usp=sharing"
+    },
+    {
+      "book_id": "145",
+      "book_name": "রশীদ হায়দার সম্পাদিত",
+      "book_starting_letter": "র",
+      "book_type": "গল্প",
+      "writer_name": "মুক্তিযুদ্ধের নির্বাচিত",
+      "link_to_download": "https://drive.google.com/file/d/1Zczd96j5E1SjoHtCzPW4bn-YwUj8Yd3e/view?usp=sharing"
+    },
+    {
+      "book_id": "146",
+      "book_name": "গল্প সঙ্কলন ১ম খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "রবিবা",
+      "link_to_download": "https://drive.google.com/open?id=1EaTy2aT2djba15VqzvRmEIrbbbOiA72R"
+    },
+    {
+      "book_id": "147",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "রমাপদ চৌধুরী",
+      "link_to_download": "https://drive.google.com/open?id=1QItLjDzcqa1tkwgjDzn9kQw7XFhcZ74l"
+    },
+    {
+      "book_id": "148",
+      "book_name": "ঝুমরো বিবির পালা",
+      "book_starting_letter": "ঝ",
+      "book_type": "গল্প",
+      "writer_name": "রমাপদ চৌধুরী",
+      "link_to_download": "https://drive.google.com/open?id=0Bym-wbTB4c_zQUtTR2FodlBKMWc"
+    },
+    {
+      "book_id": "149",
+      "book_name": "লালবাঈ",
+      "book_starting_letter": "ল",
+      "book_type": "উপন্যাস",
+      "writer_name": "রমাপদ চৌধুরী",
+      "link_to_download": "https://drive.google.com/open?id=0BxjgXXfI1bleOE9kZ0xaME1aeG8"
+    },
+    {
+      "book_id": "150",
+      "book_name": "হারানো খাতা",
+      "book_starting_letter": "হ",
+      "book_type": "অন্যান্য",
+      "writer_name": "রমাপদ চৌধুরী",
+      "link_to_download": "https://drive.google.com/file/d/1L3OBMQv1j2kMDpzSH2iV4rW2Wbjb74to/view?usp=sharing"
+    },
+    {
+      "book_id": "151",
+      "book_name": "আমার জীবন",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "রাসসুন্দরী দাসী",
+      "link_to_download": "https://drive.google.com/file/d/1x2mGZB2O7NfkTPiEvyevrkV9lApb3eQd/view?usp=sharing"
+    },
+    {
+      "book_id": "152",
+      "book_name": "রক্তের অক্ষর",
+      "book_starting_letter": "র",
+      "book_type": "উপন্যাস",
+      "writer_name": "রিজিয়া রহমান",
+      "link_to_download": "https://drive.google.com/open?id=1h2t9OAM_C3i0ACOEOXDtNiwpzLqBrLlw"
+    },
+    {
+      "book_id": "153",
+      "book_name": "হারুন ফেরেনি",
+      "book_starting_letter": "হ",
+      "book_type": "উপন্যাস",
+      "writer_name": "রিজিয়া রহমান",
+      "link_to_download": "https://drive.google.com/open?id=1TH0VfjlQNTROGoprsbOBLmK9JOXGt3QI"
+    },
+    {
+      "book_id": "154",
+      "book_name": "প্রদোষে প্রাকৃতজন",
+      "book_starting_letter": "প",
+      "book_type": "উপন্যাস",
+      "writer_name": "শওকত আলী",
+      "link_to_download": "https://drive.google.com/open?id=1BM2a3fvbBA1VZNaNnKKTD3M7460DL82m"
+    },
+    {
+      "book_id": "155",
+      "book_name": "গল্প--১",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "শওকত আলী",
+      "link_to_download": "https://drive.google.com/open?id=1YflE099BxWUrxqrmJA-340el0ZAKBMdw"
+    },
+    {
+      "book_id": "156",
+      "book_name": "গল্প--২",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "শওকত আলী",
+      "link_to_download": "https://drive.google.com/open?id=12mwzjdMzqN9Jff87OjCXDfglfhNm4of5"
+    },
+    {
+      "book_id": "157",
+      "book_name": "ডলু নদীর হাওয়া",
+      "book_starting_letter": "ড",
+      "book_type": "গল্প",
+      "writer_name": "শহীদুল জহি",
+      "link_to_download": "https://drive.google.com/open?id=148XT-GJPBiZmBw0SMcbksmiAMIQmlFj2"
+    },
+    {
+      "book_id": "158",
+      "book_name": "অগ্রন্থিত রচনা",
+      "book_starting_letter": "অ",
+      "book_type": "অন্যান্য",
+      "writer_name": "শহীদুল জহি",
+      "link_to_download": "https://drive.google.com/file/d/1wVgJgsFNXHZ5q50YmprTBpHtqY0PsUJz/view?usp=sharing"
+    },
+    {
+      "book_id": "159",
+      "book_name": "রচনা সমগ্র",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "শহীদুল জহি",
+      "link_to_download": "https://drive.google.com/open?id=10mjT8CbBjYNgYPqJr1CzW0KhZSmVktlr"
+    },
+    {
+      "book_id": "160",
+      "book_name": "জীবন ও রাজনৈতিক বাস্তবতা",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "শহীদুল জহি",
+      "link_to_download": "https://drive.google.com/open?id=1TR4u1BvN8S_5Sn01VognEOt1VslNPO6A"
+    },
+    {
+      "book_id": "161",
+      "book_name": "বিষাদ বিন্দু",
+      "book_starting_letter": "ব",
+      "book_type": "উপন্যাস",
+      "writer_name": "শামিম আহমেদ",
+      "link_to_download": "https://drive.google.com/open?id=13E1TRGB4f2X1iTc-EmPYnK_6T9VYGIOu"
+    },
+    {
+      "book_id": "162",
+      "book_name": "ব্যাস",
+      "book_starting_letter": "ব",
+      "book_type": "উপন্যাস",
+      "writer_name": "শাহযাদ ফিরদাউস",
+      "link_to_download": "https://drive.google.com/file/d/16Ev8wzLPjeQLTc_D5CDr5wOOzHQndQ4Q/view?usp=sharing"
+    },
+    {
+      "book_id": "163",
+      "book_name": "শাইলকের বাণিজ্য বিস্তার",
+      "book_starting_letter": "শ",
+      "book_type": "উপন্যাস",
+      "writer_name": "শাহযাদ ফিরদাউস",
+      "link_to_download": "https://drive.google.com/file/d/1OHquYsNscc3UwMWTezW4mauzV7ZkTSuK/view?usp=sharing"
+    },
+    {
+      "book_id": "164",
+      "book_name": "গল্প সংকলন-- দাঁড়ের সাক্ষী ময়না পাখি",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "শাহাদুজ্জামান",
+      "link_to_download": "https://drive.google.com/open?id=1Mu0_kgxXnb8ylc0OLqqj-T7hwWKIFU-7"
+    },
+    {
+      "book_id": "165",
+      "book_name": "কয়েকটি বিহবল গল্প",
+      "book_starting_letter": "ক",
+      "book_type": "গল্প",
+      "writer_name": "শাহাদুজ্জামান",
+      "link_to_download": "https://drive.google.com/file/d/1KICvbuTyXQUCj5pYK6Jv1sooB1hohIyx/view?usp=sharing"
+    },
+    {
+      "book_id": "166",
+      "book_name": "১০১টি গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "শীর্ষেন্দু মুখোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=1t5twl0ieHrWcsXpQHs-X74LCWpYbCglK"
+    },
+    {
+      "book_id": "167",
+      "book_name": "৫০টি প্রেমের গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "শীর্ষেন্দু মুখোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=1N8K1Fx0LTuGLs9b22VnvaqKMuueIy57L"
+    },
+    {
+      "book_id": "168",
+      "book_name": "সেরা গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "শীর্ষেন্দু মুখোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=12YzcmyN_BznAoXoR1BtiiXhyhWT2S4kz"
+    },
+    {
+      "book_id": "169",
+      "book_name": "একালের বাংলা গল্প",
+      "book_starting_letter": "এ",
+      "book_type": "গল্প",
+      "writer_name": "শীর্ষেন্দু মুখোপাধ্যায়",
+      "link_to_download": "http://www.mediafire.com/file/9vg4v5gtnygipu4/%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0+%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA+%E0%A5%A4%E0%A5%A4+%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81+%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F.pdf"
+    },
+    {
+      "book_id": "170",
+      "book_name": "সমরেশ ও অন্যান্য গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "শৈবাল মিত্রের কয়েকটি",
+      "link_to_download": "https://drive.google.com/open?id=1j-Qtu8lpxh4BFgHiHF_JjUkUqhvb14U9"
+    },
+    {
+      "book_id": "171",
+      "book_name": "কুবেরের বিষয় আশয়",
+      "book_starting_letter": "ক",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=13q6WZjCqnsJVoBXUInk0Rwbd4Lagn_Mz"
+    },
+    {
+      "book_id": "172",
+      "book_name": "সাজাদা দারাশুকো অখণ্ড",
+      "book_starting_letter": "স",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=1jp0XVhZFT6j46cZ_MQ_kflllzHXvYGts"
+    },
+    {
+      "book_id": "173",
+      "book_name": "ঈশ্বরীতলার রূপোকথা",
+      "book_starting_letter": "ঈ",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=1eOsISgo9Kl5bbXsaxPe5tfvpHPLaK2EA"
+    },
+    {
+      "book_id": "174",
+      "book_name": "প্রথম খণ্ড",
+      "book_starting_letter": "প",
+      "book_type": "গল্প",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=1k3O8CsINi-wiczoeMBaN8Vs2H3AJlzOU"
+    },
+    {
+      "book_id": "175",
+      "book_name": "জীবন রহস্য",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsSTZOT0NnZnBhbTQ"
+    },
+    {
+      "book_id": "176",
+      "book_name": "হাওয়া গাড়ি",
+      "book_starting_letter": "হ",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যা",
+      "link_to_download": "https://drive.google.com/open?id=1QDZ0khYm4pRjLzCHqUHdwkUQ3n-ZUovb"
+    },
+    {
+      "book_id": "177",
+      "book_name": "আমার শ্যামল ইতি গঙ্গোপাধ্যায়",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1dPumvzAW6uwotKlw56A618OU1w3QZnBr/view?usp=share_link"
+    },
+    {
+      "book_id": "178",
+      "book_name": "ভোরবেলার ভালোবাসা",
+      "book_starting_letter": "ভ",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=1XXDsRwZ5vcvp3ZmEz_VWCAP9vGOtor4W"
+    },
+    {
+      "book_id": "179",
+      "book_name": "ভালবাসিব না আর",
+      "book_starting_letter": "ভ",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1kYA9O6lA2WyPYSN16Uv68k3vZaD2z3Er/view?usp=sharing"
+    },
+    {
+      "book_id": "180",
+      "book_name": "ভাসামানিকের ভালবাসা",
+      "book_starting_letter": "ভ",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1EQfITtB09ZtU7Ckq26gi47Os3OucFYzq/view?usp=sharing"
+    },
+    {
+      "book_id": "181",
+      "book_name": "নির্বান্ধব",
+      "book_starting_letter": "ন",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্যামল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1gvcLhDSmzkqfzPtNjz4Vjb5wRZuD5OjH/view?usp=sharing"
+    },
+    {
+      "book_id": "182",
+      "book_name": "হারেম",
+      "book_starting_letter": "হ",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্রীপান্থ",
+      "link_to_download": "https://drive.google.com/open?id=1n5TcLNR3-6mPQ_d6mmRHsWpOZ74Ditnz"
+    },
+    {
+      "book_id": "183",
+      "book_name": "কলকাতা",
+      "book_starting_letter": "ক",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্রীপান্থ",
+      "link_to_download": "https://drive.google.com/open?id=1TEvwL_3EWm9rABGj2xv5bdsT3PWxtMFk"
+    },
+    {
+      "book_id": "184",
+      "book_name": "ঠগী",
+      "book_starting_letter": "ঠ",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্রীপান্থ",
+      "link_to_download": "https://drive.google.com/open?id=1g2-ejzQ3kTRckOAWCRR3GvyFRq9jl9aU"
+    },
+    {
+      "book_id": "185",
+      "book_name": "রাজসিক",
+      "book_starting_letter": "র",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্রীপান্থ",
+      "link_to_download": "https://drive.google.com/open?id=1nCZ8rSaAB0LdxXrFFam_DoA5mNUNQcdv"
+    },
+    {
+      "book_id": "186",
+      "book_name": "বিলেত দর্শন",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "শ্রীপান্থ",
+      "link_to_download": "https://drive.google.com/open?id=1mIGzY33wodtTBS98XXR9IyIlrnaiiyGZ"
+    },
+    {
+      "book_id": "187",
+      "book_name": "সাত রানী আট বেগম",
+      "book_starting_letter": "স",
+      "book_type": "উপন্যাস",
+      "writer_name": "শ্রীপান্থ",
+      "link_to_download": "https://drive.google.com/open?id=1oLp4zOlZPakSXuRnqzkSXxsHSfQGiEwy"
+    },
+    {
+      "book_id": "188",
+      "book_name": "১০১টি গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "সত্যজিৎ রা",
+      "link_to_download": "https://drive.google.com/file/d/1vYyDvnLzfoYWwTWOQnlYk0humkgdsYU8/view?usp=sharing"
+    },
+    {
+      "book_id": "189",
+      "book_name": "গল্প",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সোমেন চন্দ",
+      "link_to_download": "https://drive.google.com/open?id=1xJ4YjMiXq_o1wPSJKcf9JpMrarwE9d5_"
+    },
+    {
+      "book_id": "190",
+      "book_name": "দ্বিতীয় খণ্ড",
+      "book_starting_letter": "দ",
+      "book_type": "রচনাবলী",
+      "writer_name": "সোমেন চন্দ সমগ্",
+      "link_to_download": "https://drive.google.com/file/d/1pDVeD4nKqn7jUFT5G7qXeXnAyR91n89w/view?usp=sharing"
+    },
+    {
+      "book_id": "191",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "সতীনাথ ভাদুড়ী",
+      "link_to_download": "https://drive.google.com/file/d/1Zph8eL0u_6VhXuyDTertLTQPCXAA0UTR/view?usp=sharing"
+    },
+    {
+      "book_id": "192",
+      "book_name": "ঢোঁড়াই চরিতমানস, জাগরী ও ২০টি গল্প",
+      "book_starting_letter": "ঢ",
+      "book_type": "গল্প",
+      "writer_name": "সতীনাথ ভাদুড়ী",
+      "link_to_download": "https://drive.google.com/file/d/1Zph8eL0u_6VhXuyDTertLTQPCXAA0UTR/view?usp=sharing"
+    },
+    {
+      "book_id": "193",
+      "book_name": "জাগরী",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "সতীনাথ ভাদুড়ী",
+      "link_to_download": "https://drive.google.com/file/d/1_krXXIVZBprptIHRAGhV2BVIMCEqz57Q/view?usp=sharing"
+    },
+    {
+      "book_id": "194",
+      "book_name": "জলভ্রমি",
+      "book_starting_letter": "জ",
+      "book_type": "উপন্যাস",
+      "writer_name": "সতীনাথ ভাদুড়ী",
+      "link_to_download": "https://drive.google.com/open?id=10L5S4IaxdQR1yz3AYU7gp-T8ea8D6kDN"
+    },
+    {
+      "book_id": "195",
+      "book_name": "নাস্তিক পণ্ডিতের ভিটা",
+      "book_starting_letter": "ন",
+      "book_type": "উপন্যাস",
+      "writer_name": "সন্মাত্রানন্দ",
+      "link_to_download": "https://drive.google.com/open?id=1krJ2jC1HrGvyv4yI4o1_MGqbHR_Ofu6a"
+    },
+    {
+      "book_id": "196",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "সমরেশ বসু",
+      "link_to_download": "http://www.mediafire.com/file/xdosb9s827jam1d/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA_%E0%A5%A4%E0%A5%A4_%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%87%E0%A6%B6_%E0%A6%AC%E0%A6%B8%E0%A7%81.pdf"
+    },
+    {
+      "book_id": "197",
+      "book_name": "বাছাই গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "গল্প",
+      "writer_name": "সমরেশ বসু",
+      "link_to_download": "https://drive.google.com/open?id=1K0epYvYvQ8TjFKxXHg9ZDfxap2wyEfxJ"
+    },
+    {
+      "book_id": "198",
+      "book_name": "মোমেন ও মোমেনা",
+      "book_starting_letter": "ম",
+      "book_type": "উপন্যাস",
+      "writer_name": "সাদিক হোসেন",
+      "link_to_download": "https://drive.google.com/file/d/18zcNzAW_Sfted2Oh33V8aLQE6GAbXA5k/view?usp=sharing"
+    },
+    {
+      "book_id": "199",
+      "book_name": "তৃণভূমি",
+      "book_starting_letter": "ত",
+      "book_type": "অন্যান্য",
+      "writer_name": "সাধন চট্টোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/180TSuMzvxeJvwjjJKx6aj-bwzupURrve/view?usp=sharing"
+    },
+    {
+      "book_id": "200",
+      "book_name": "দয়াময়ীর কথা",
+      "book_starting_letter": "দ",
+      "book_type": "অন্যান্য",
+      "writer_name": "সুনন্দা শিকদা",
+      "link_to_download": "https://drive.google.com/open?id=0BzdKQQBbWikTd296R2pFZzZGSmM"
+    },
+    {
+      "book_id": "201",
+      "book_name": "গল্পলোক",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=0Bym-wbTB4c_zanlfdkttdU9ibmM"
+    },
+    {
+      "book_id": "202",
+      "book_name": "গল্প",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সেরা লেখিকাদ",
+      "link_to_download": "https://drive.google.com/open?id=1DCymejE4rAh-n9IprW_c5h_s5khupqqo"
+    },
+    {
+      "book_id": "203",
+      "book_name": "আগস্টের একরাত",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "সেলিনা হোসেন",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsWHgzUHZMQ2sxOEU"
+    },
+    {
+      "book_id": "204",
+      "book_name": "নীল ময়ূরের যৈবন",
+      "book_starting_letter": "ন",
+      "book_type": "উপন্যাস",
+      "writer_name": "সেলিনা হোসেন",
+      "link_to_download": "https://drive.google.com/open?id=1rP-x15uUF7Ca7heS7YQE6qw9R8lPGmPO"
+    },
+    {
+      "book_id": "205",
+      "book_name": "রচনা সমগ্র ২য় খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "রচনাবলী",
+      "writer_name": "সোমেন চন্দ",
+      "link_to_download": "https://drive.google.com/open?id=1uLQZyrpTzLmzySRYfiIs-V4O1BM7GCSL"
+    },
+    {
+      "book_id": "206",
+      "book_name": "গল্প সমগ্র ১ম খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ ওয়ালীউল্লাহ",
+      "link_to_download": "https://drive.google.com/open?id=1FLUI9bPsN1AKo0YckI7Ej0kpOtmuZyfQ"
+    },
+    {
+      "book_id": "207",
+      "book_name": "কাঁদো নদীকাঁদো",
+      "book_starting_letter": "ক",
+      "book_type": "উপন্যাস",
+      "writer_name": "সৈয়দ ওয়ালীউল্লাহ",
+      "link_to_download": "https://drive.google.com/open?id=13qgo7c3D2W0ixT9BiWioADg7lNtpZWpr"
+    },
+    {
+      "book_id": "208",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ ওয়ালীউল্লাহ",
+      "link_to_download": "https://drive.google.com/open?id=1p7ENXN4KCQpxCmmJlMgWF1fWQYlDHTBF"
+    },
+    {
+      "book_id": "209",
+      "book_name": "অগ্রন্থিত রচনা",
+      "book_starting_letter": "অ",
+      "book_type": "অন্যান্য",
+      "writer_name": "সৈয়দ ওয়ালীউল্লাহ",
+      "link_to_download": "https://drive.google.com/open?id=1wVgJgsFNXHZ5q50YmprTBpHtqY0PsUJz"
+    },
+    {
+      "book_id": "210",
+      "book_name": "সৈয়দ ওয়ালীউল্লাহ'র জীবন ও দর্শন",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=15L3_9BfU1-YUK4sNd5_lppZqG4HD2chh"
+    },
+    {
+      "book_id": "211",
+      "book_name": "থাকা না থাকার গল্প",
+      "book_starting_letter": "থ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মনজুরুল ইসলাম",
+      "link_to_download": "https://drive.google.com/open?id=1KOA6QJejo46cxfXupFb0DAoKrwwdwB9P"
+    },
+    {
+      "book_id": "212",
+      "book_name": "একাত্তর ও অন্যান্য গল্প",
+      "book_starting_letter": "এ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মনজুরুল ইসলাম",
+      "link_to_download": "https://drive.google.com/file/d/1KRzBODTnA3XM9HLrxjOXrAEcqKQ-X6i2/view?usp=share_link"
+    },
+    {
+      "book_id": "213",
+      "book_name": "তালপাতার সেপাই ও অন্যান্য গল্প",
+      "book_starting_letter": "ত",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মনজুরুল ইসলাম",
+      "link_to_download": "https://drive.google.com/open?id=1Ud3Em586pZS-Z2SfcnsVJ1CHge1yuFxk"
+    },
+    {
+      "book_id": "214",
+      "book_name": "লেখাজোখার কারখানা",
+      "book_starting_letter": "ল",
+      "book_type": "অন্যান্য",
+      "writer_name": "সৈয়দ মনজুরুল ইসলাম",
+      "link_to_download": "https://drive.google.com/open?id=1FpRrOyXFml08A7qE6haYMFlC-nIdwWuu"
+    },
+    {
+      "book_id": "215",
+      "book_name": "দিনরাতগুলি",
+      "book_starting_letter": "দ",
+      "book_type": "উপন্যাস",
+      "writer_name": "সৈয়দ মনজুরুল ইসলাম",
+      "link_to_download": "https://drive.google.com/open?id=1JdvZu7S6-dB7Os8KxPUKSwav3lcgf6qL"
+    },
+    {
+      "book_id": "216",
+      "book_name": "আজগুবি রাত",
+      "book_starting_letter": "আ",
+      "book_type": "উপন্যাস",
+      "writer_name": "সৈয়দ মনজুরুল ইসলাম",
+      "link_to_download": "https://drive.google.com/open?id=1CHwhzGw3nZ0z5QTSRU2qqnz9kXBlS1EK"
+    },
+    {
+      "book_id": "217",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মুজতবা আলী",
+      "link_to_download": "https://drive.google.com/file/d/1x57yvAOTbyQH8_9WxtKgqSPXIPzSCjQv/view?usp=sharing"
+    },
+    {
+      "book_id": "218",
+      "book_name": "গল্প সমগ্র ১ম খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মুস্তাফা সিরাজ",
+      "link_to_download": "https://drive.google.com/file/d/1wpfeP74iIyLsV4cUtQ1-6HhLxnXb2Wqn/view?usp=sharing"
+    },
+    {
+      "book_id": "219",
+      "book_name": "গল্প সমগ্র ২য় খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মুস্তাফা সিরাজ",
+      "link_to_download": "https://drive.google.com/file/d/16VvjkxdqdYm4miMAdwDPtm0OXNu-nBqC/view?usp=sharing"
+    },
+    {
+      "book_id": "220",
+      "book_name": "গল্পমালা",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মুস্তাফা সিরাজ",
+      "link_to_download": "https://drive.google.com/file/d/1bd3RAJixQ8NzcfBk-z0ztsFEuohWT2CS/view?usp=sharing"
+    },
+    {
+      "book_id": "221",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "সৈয়দ মুস্তাফা সিরাজ",
+      "link_to_download": "https://drive.google.com/file/d/1YvdnCjRYmr33Ftgt5IMzi5Cl31kJyuwn/view?usp=sharing"
+    },
+    {
+      "book_id": "222",
+      "book_name": "উপন্যাস--অলীক মানুষ",
+      "book_starting_letter": "উ",
+      "book_type": "উপন্যাস",
+      "writer_name": "সৈয়দ মুস্তাফা সিরাজ",
+      "link_to_download": "https://drive.google.com/file/d/1Qu7JUHcNE08pIt-UOSI0xQd-1UC5OSUD/view?usp=sharing"
+    },
+    {
+      "book_id": "223",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "সুবিমল মিশ্",
+      "link_to_download": "https://drive.google.com/file/d/16YGjvsEBvWTHMK24MhrJCJod2yMYPcSm/view?usp=sharing"
+    },
+    {
+      "book_id": "224",
+      "book_name": "সুবিমল মিশ্র সংক্রান্ত কতিপয় নোট",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1NyQDWMG20FNROLlqolp0nZbt7LfQ6XJR/view?usp=sharing"
+    },
+    {
+      "book_id": "225",
+      "book_name": "বই সংগ্রহ ১",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "সুবিমল মিশ্",
+      "link_to_download": "https://drive.google.com/file/d/1evTVoYAqghrgamHwtLYm0haENaXwLSLj/view?usp=sharing"
+    },
+    {
+      "book_id": "226",
+      "book_name": "বই সংগ্রহ ৩",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "সুবিমল মিশ্",
+      "link_to_download": "https://drive.google.com/file/d/1BYnP723J5RLVI8QPNFBngojfSbh87lyw/view?usp=sharing"
+    },
+    {
+      "book_id": "227",
+      "book_name": "বই সংগ্রহ ৪",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "সুবিমল মিশ্",
+      "link_to_download": "https://drive.google.com/file/d/1lfSTNvBbcNxRtBNZrZxXCg0SDRmcFq7l/view?usp=sharing"
+    },
+    {
+      "book_id": "228",
+      "book_name": "গল্প সমগ্র ১ম খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=1bYR1VM2-ltHR7GnoSZI7IZnqVETz3c-9"
+    },
+    {
+      "book_id": "229",
+      "book_name": "গল্প সমগ্র ২য় খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=1iGP9QFHLQbCuwOcy5lCT02W276DERdFD"
+    },
+    {
+      "book_id": "230",
+      "book_name": "গল্প সংগ্রহ ৩য় খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=1gHkTtn7rN70pnBAwkNQPKgYZUYaqol4c"
+    },
+    {
+      "book_id": "231",
+      "book_name": "গল্প সমগ্র ৪র্থ খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=1Vn7DiYYerItMgFyH6LuOaT0cEr0SKBk1"
+    },
+    {
+      "book_id": "232",
+      "book_name": "ভারত প্রেম-কথা",
+      "book_starting_letter": "ভ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=1H6lilINVjrIrDcPBhirjdyxFfuIxNiEe"
+    },
+    {
+      "book_id": "233",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুবোধ ঘোষ",
+      "link_to_download": "https://drive.google.com/file/d/1eTOyDhh04VzvuW7DvR7zaZU-1gYks_ZQ/view?usp=sharing"
+    },
+    {
+      "book_id": "234",
+      "book_name": "গল্পসংগ্রহ",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুধীন দত্ত",
+      "link_to_download": "https://drive.google.com/open?id=1f_9WywHdUFRztVROBXOp41KsEsZC041D"
+    },
+    {
+      "book_id": "235",
+      "book_name": "গল্প সমগ্র ১ম খণ্ড",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "সুনীল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=1zV7zB6gVZiFB-P3AxoJyY2nfARQt_kR9"
+    },
+    {
+      "book_id": "236",
+      "book_name": "স্বনির্বাচিত ১০০ গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "সুনীল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=1yEDyWsLTVYORjtCRe9rz4kCHyh2xJLpl"
+    },
+    {
+      "book_id": "237",
+      "book_name": "প্রথম আলো ১ম খণ্ড",
+      "book_starting_letter": "প",
+      "book_type": "উপন্যাস",
+      "writer_name": "সুনীল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1HyBvZhIkfTbS7rla-V5TvJrUfM9JOJMr/view?usp=sharing"
+    },
+    {
+      "book_id": "238",
+      "book_name": "প্রথম আলো ২য় খণ্ড",
+      "book_starting_letter": "প",
+      "book_type": "উপন্যাস",
+      "writer_name": "সুনীল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1npLDXBNrpSSHkFpu20KEWdbgnn5i8tPZ/view?usp=sharing"
+    },
+    {
+      "book_id": "239",
+      "book_name": "সেই সময়",
+      "book_starting_letter": "স",
+      "book_type": "উপন্যাস",
+      "writer_name": "সুনীল গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1ryzoI99TSA73Y6aLU0gn61PFNC_umZq0/view?usp=sharing"
+    },
+    {
+      "book_id": "240",
+      "book_name": "চতুষ্পাঠী",
+      "book_starting_letter": "চ",
+      "book_type": "উপন্যাস",
+      "writer_name": "স্বপ্নময় চিক্রবর্তী",
+      "link_to_download": "https://drive.google.com/open?id=1Kt7-L9KRNvQqPDakRSQYurI9ZjFOmRLA"
+    },
+    {
+      "book_id": "241",
+      "book_name": "হলদে গোলাপ",
+      "book_starting_letter": "হ",
+      "book_type": "উপন্যাস",
+      "writer_name": "স্বপ্নময় চক্রবর্তী",
+      "link_to_download": "https://drive.google.com/open?id=1_z7FzvrWoG3i-K8a3CcU91U5x1V3UHmg"
+    },
+    {
+      "book_id": "242",
+      "book_name": "অবন্তীনগর",
+      "book_starting_letter": "অ",
+      "book_type": "উপন্যাস",
+      "writer_name": "স্বপ্নময় চক্রবর্তী",
+      "link_to_download": "https://drive.google.com/file/d/1RdMuFVXjdn2qKjl6w50x3Zrol6ZBMLQF/view?usp=share_link"
+    },
+    {
+      "book_id": "243",
+      "book_name": "৫০ টি গল্প",
+      "book_starting_letter": "ট",
+      "book_type": "গল্প",
+      "writer_name": "স্বপ্নময় চক্রবর্তী",
+      "link_to_download": "https://drive.google.com/open?id=16AHp1scprH6o1M_TIVkGBm9wxbqpxmxo"
+    },
+    {
+      "book_id": "244",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "স্বপ্নময় চক্রবর্তী",
+      "link_to_download": "https://drive.google.com/open?id=1ZowZkp2NtdDmcVkb1Gxh6Tic3sAGDl5D"
+    },
+    {
+      "book_id": "245",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "গল্প",
+      "writer_name": "হাসান আজিজুল হক",
+      "link_to_download": "http://www.mediafire.com/file/b4xithzjy3prbar/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA_%E0%A5%A4%E0%A5%A4_%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8_%E0%A6%86%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%81%E0%A6%B2_%E0%A6%B9%E0%A6%95.pdf"
+    },
+    {
+      "book_id": "246",
+      "book_name": "আগুনপাখি",
+      "book_starting_letter": "আ",
+      "book_type": "উপন্যাস",
+      "writer_name": "হাসান আজিজুল হক",
+      "link_to_download": "https://drive.google.com/file/d/1_6cPYck-B2MGH6pBaA7VlbSzScai1_l4/view?usp=sharing"
+    },
+    {
+      "book_id": "247",
+      "book_name": "মধ্যাহ্ন (অখণ্ড)",
+      "book_starting_letter": "ম",
+      "book_type": "উপন্যাস",
+      "writer_name": "হুমায়ূন আহমে",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsbEVkaWJIcjN4d28"
+    },
+    {
+      "book_id": "248",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "গল্প",
+      "writer_name": "হুমায়ুন আহমেদ",
+      "link_to_download": "https://drive.google.com/open?id=1SQmo8tBiEtTQZ-oimP_dxVSGamt0YWhu"
+    },
+    {
+      "book_id": "249",
+      "book_name": "সেরা গল্প",
+      "book_starting_letter": "স",
+      "book_type": "গল্প",
+      "writer_name": "১৩৫৩-",
+      "link_to_download": "https://drive.google.com/open?id=1fwC1Dy8qfRonDTvI2kFdd48uYj3np5_J"
+    },
+    {
+      "book_id": "250",
+      "book_name": "সমুদ্রতীরের গ্রাম",
+      "book_starting_letter": "স",
+      "book_type": "অনুবাদ",
+      "writer_name": "অনিতা দেশাই",
+      "link_to_download": "https://drive.google.com/open?id=0B04t08tkpwRHQzlTQjVpQ1VCcDg"
+    },
+    {
+      "book_id": "251",
+      "book_name": "ভাটির দেশ",
+      "book_starting_letter": "ভ",
+      "book_type": "অনুবাদ",
+      "writer_name": "অমিতাভ ঘোষ",
+      "link_to_download": "https://drive.google.com/open?id=1pEcYSTA1MAI_M2wvc80WIpe-7pViihCG"
+    },
+    {
+      "book_id": "252",
+      "book_name": "বন্দিনী দেশভাগের গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "অনুবাদ",
+      "writer_name": "অমৃতা প্রিতম",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsLXU1Sm5NYnNINzQ"
+    },
+    {
+      "book_id": "253",
+      "book_name": "হাউই",
+      "book_starting_letter": "হ",
+      "book_type": "অনুবাদ",
+      "writer_name": "অস্কার ওয়াল্ড",
+      "link_to_download": "https://drive.google.com/file/d/15oJXEkUKTJynM-W4giueHlvxMUUWG_8o/view?usp=sharing"
+    },
+    {
+      "book_id": "254",
+      "book_name": "অসমিয়া গল্প সঙ্কলন",
+      "book_starting_letter": "অ",
+      "book_type": "অনুবাদ",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1FqUhxugS1D0JaiRlyGnsbXH72BY3NlpV/view?usp=sharing"
+    },
+    {
+      "book_id": "255",
+      "book_name": "অরবিন্দু আডিগা দ্যা হোয়াইট টাইগার",
+      "book_starting_letter": "অ",
+      "book_type": "অনুবাদ",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1Gzbjtss7BhKCX_VZEYMsfv7Ry2z726Iv/view?usp=sharing"
+    },
+    {
+      "book_id": "256",
+      "book_name": "সাহিত্য সংকলন",
+      "book_starting_letter": "স",
+      "book_type": "অনুবাদ",
+      "writer_name": "আফ্রিকা",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBscDc5X1R1V1lxM3c"
+    },
+    {
+      "book_id": "257",
+      "book_name": "শোশা",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "আইজ্যাক বাশেভিক সিঙ্গা",
+      "link_to_download": "https://drive.google.com/open?id=1zisFt5zTrM3MnjTBYr-VFn6Y1r6BZ4it"
+    },
+    {
+      "book_id": "258",
+      "book_name": "ওল্ড ম্যান এন্ড দি সী",
+      "book_starting_letter": "ও",
+      "book_type": "অনুবাদ",
+      "writer_name": "আর্নেস্ট হেমিংওয়ের উপন্যা",
+      "link_to_download": "https://drive.google.com/open?id=13edD_T7N2zKc18bMQ3n82XxHlyJ0pPJm"
+    },
+    {
+      "book_id": "259",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "আর্নেস্ট হেমিংও",
+      "link_to_download": "https://drive.google.com/file/d/1DHXoxaS9SYmeHrBlNuy6EMjT0F_XoHHY/view?usp=share_link"
+    },
+    {
+      "book_id": "260",
+      "book_name": "প্লেগ",
+      "book_starting_letter": "প",
+      "book_type": "অনুবাদ",
+      "writer_name": "আলবেয়ার কাম্যু",
+      "link_to_download": "https://drive.google.com/open?id=15BZx9lLddX1DeALpQ_i_cGPfAig-aUQ-"
+    },
+    {
+      "book_id": "261",
+      "book_name": "দ্য ফল/ পতন",
+      "book_starting_letter": "দ",
+      "book_type": "অনুবাদ",
+      "writer_name": "আলবেয়ার কাম্যু",
+      "link_to_download": "https://drive.google.com/open?id=0BzBR-dkDmrGadTgyS3ZqVHlCZkk"
+    },
+    {
+      "book_id": "262",
+      "book_name": "দ্য আউটসাইডার",
+      "book_starting_letter": "দ",
+      "book_type": "অনুবাদ",
+      "writer_name": "আলবেয়ার কাম্যু",
+      "link_to_download": "https://drive.google.com/file/d/1x-gjMlzsW0s6WZZ93w5v3yhSRMOqQLxm/view?usp=sharing"
+    },
+    {
+      "book_id": "263",
+      "book_name": "মিথ অফ সিসিফাস",
+      "book_starting_letter": "ম",
+      "book_type": "অনুবাদ",
+      "writer_name": "আলবেয়ার কাম্যু",
+      "link_to_download": "https://drive.google.com/file/d/16Jzt_pWFhp9r3lg3JuHr_qcnI_RdAi46/view?usp=sharing"
+    },
+    {
+      "book_id": "264",
+      "book_name": "থ্রি মস্কেটিয়ার্স",
+      "book_starting_letter": "থ",
+      "book_type": "অনুবাদ",
+      "writer_name": "আলেক্সান্দার দ্যুমা",
+      "link_to_download": "https://drive.google.com/open?id=1PKseAsp8UMCvyOkb5ppV5og-tXLpJk6t"
+    },
+    {
+      "book_id": "265",
+      "book_name": "গল্পসঙ্কলন",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "ইসমাত চুগতাই",
+      "link_to_download": "https://drive.google.com/file/d/13XvfPZwJBtcVuxcewNYyYDUwbFzEevBJ/view?usp=share_link"
+    },
+    {
+      "book_id": "266",
+      "book_name": "এলান পোর রচনা সমগ্র",
+      "book_starting_letter": "এ",
+      "book_type": "অনুবাদ",
+      "writer_name": "এডগা",
+      "link_to_download": "https://drive.google.com/file/d/1qZJ0hVzzjUcjAck6dF8d2tiRh66wGkE8/view?usp=sharing"
+    },
+    {
+      "book_id": "267",
+      "book_name": "ফোর ক্লাসিকস",
+      "book_starting_letter": "ফ",
+      "book_type": "অনুবাদ",
+      "writer_name": "এরিয়া মারিয়া রেমার্ক",
+      "link_to_download": "https://drive.google.com/file/d/1Ej_LOxgci-0TujazQahYEYl5FKaDRTX4/view?usp=sharing"
+    },
+    {
+      "book_id": "268",
+      "book_name": "উর্দু গল্প",
+      "book_starting_letter": "উ",
+      "book_type": "অনুবাদ",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1NR0oOCC4tNav_y_CAbUo-m_U6QdCNYPk/view?usp=share_link"
+    },
+    {
+      "book_id": "269",
+      "book_name": "ইস্তাম্বুল",
+      "book_starting_letter": "ই",
+      "book_type": "অনুবাদ",
+      "writer_name": "ওরহান পামুক",
+      "link_to_download": "https://drive.google.com/file/d/1s1NIQf7jg2wz27s3N3_oxsadaousIfC_/view?usp=share_link"
+    },
+    {
+      "book_id": "270",
+      "book_name": "তুষার",
+      "book_starting_letter": "ত",
+      "book_type": "অনুবাদ",
+      "writer_name": "ওরহান পামুক",
+      "link_to_download": "https://drive.google.com/file/d/12icP92mm1jB5srVUnt51GWHLaAE-U586/view?usp=sharing"
+    },
+    {
+      "book_id": "271",
+      "book_name": "গল্প সমগ্র--অনুবাদ--মণীন্দ্র দত্ত",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "ও হেনরি",
+      "link_to_download": "https://drive.google.com/file/d/1xWibuWhCMflT1XFjSbpkxvsP30TTGfzn/view?usp=share_link"
+    },
+    {
+      "book_id": "272",
+      "book_name": "ও হেনরি্র কয়েকটি গল্প",
+      "book_starting_letter": "ও",
+      "book_type": "অনুবাদ",
+      "writer_name": "- দিব্যেন্দু বন্দ্যোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1uEHwxZmy3n_7nDz3BMMra7AijEtmvIas/view?usp=share_link"
+    },
+    {
+      "book_id": "273",
+      "book_name": "অন্নদাতা",
+      "book_starting_letter": "অ",
+      "book_type": "অনুবাদ",
+      "writer_name": "কৃষণ চন্দ",
+      "link_to_download": "https://drive.google.com/file/d/1GXRm3t1ihW0jd1vMhL6Mp3gNDVvfejsu/view?usp=share_link"
+    },
+    {
+      "book_id": "274",
+      "book_name": "দ্য কাইট রানার",
+      "book_starting_letter": "দ",
+      "book_type": "অনুবাদ",
+      "writer_name": "খালেদ হোসেনী",
+      "link_to_download": "https://drive.google.com/file/d/1h0LbD-8Yk9Nwjx0EQeOroWziXXicnNyT/view?usp=sharing"
+    },
+    {
+      "book_id": "275",
+      "book_name": "শ্রেষ্ঠ পাঞ্জাবী গল্প:",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "খুশবন্ত সিং",
+      "link_to_download": "https://drive.google.com/open?id=1Oc1WUK3ygVrrXwPsTxepDVErDNzUe6nP"
+    },
+    {
+      "book_id": "276",
+      "book_name": "চিলিতে গোপনে",
+      "book_starting_letter": "চ",
+      "book_type": "অনুবাদ",
+      "writer_name": "গ্যাব্রিয়েল গার্সিয়া মার্কেজ",
+      "link_to_download": "https://drive.google.com/open?id=1fURDgUjBSjfP0jYIELjf7pU-r3BO9zee"
+    },
+    {
+      "book_id": "277",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "গ্যাব্রিয়েল গার্সিয়া মার্কেজ",
+      "link_to_download": "https://drive.google.com/open?id=1ZUYXxhtMxkk7snpJAJeYZG0tj57jFO0s"
+    },
+    {
+      "book_id": "278",
+      "book_name": "নো লংগার এ্যাট ইজ",
+      "book_starting_letter": "ন",
+      "book_type": "অনুবাদ",
+      "writer_name": "চিনুয়া আচেবে",
+      "link_to_download": "https://drive.google.com/file/d/10jdbxGf5o3YzKDrqe96EbAO-blL49wnG/view?usp=sharing"
+    },
+    {
+      "book_id": "279",
+      "book_name": "শ্রেষ্ঠ গল্প সংগ্রহ--১ম খণ্ড",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "চিনা",
+      "link_to_download": "https://drive.google.com/file/d/121uPaeGRsl1tPgya1yUeRqp2-yLvjHN6/view?usp=sharing"
+    },
+    {
+      "book_id": "280",
+      "book_name": "সেরা গল্প",
+      "book_starting_letter": "স",
+      "book_type": "অনুবাদ",
+      "writer_name": "জ্যাক লন্ডন",
+      "link_to_download": "http://www.mediafire.com/file/06cp5wb1brly63y/%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95_%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%A8_%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA.pdf"
+    },
+    {
+      "book_id": "281",
+      "book_name": "হোয়াইট ফ্যাং",
+      "book_starting_letter": "হ",
+      "book_type": "অনুবাদ",
+      "writer_name": "জ্যাক লন্ডন",
+      "link_to_download": "https://drive.google.com/file/d/1FmWQ4FRRT3MOT20cIYh2rRA8qBTI6nrx/view?usp=sharing"
+    },
+    {
+      "book_id": "282",
+      "book_name": "গল্প সপ্তদশ",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "ঝুম্পা লাহিড়ী",
+      "link_to_download": "https://drive.google.com/open?id=1hOry_s4eecDhubUSdPrCm21J9X63PJRd"
+    },
+    {
+      "book_id": "283",
+      "book_name": "সারভেন্তিস",
+      "book_starting_letter": "স",
+      "book_type": "অনুবাদ",
+      "writer_name": "ডন কুইকজোট",
+      "link_to_download": "https://drive.google.com/open?id=1fGb1Y79Kz7mwE1QTUFxBMqdXSjIxSpoI"
+    },
+    {
+      "book_id": "284",
+      "book_name": "আহমেদ আহসানুজ্জামান সম্পাদিত",
+      "book_starting_letter": "আ",
+      "book_type": "অনুবাদ",
+      "writer_name": "নরওয়",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsM3NBSW1kbzVuNmM"
+    },
+    {
+      "book_id": "285",
+      "book_name": "শ্রেষ্ঠ গল্প (ফরাসী)ঃ",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "পৃথিবী",
+      "link_to_download": "https://drive.google.com/open?id=0Bym-wbTB4c_zOWw5dHgxcEE3SEE"
+    },
+    {
+      "book_id": "286",
+      "book_name": "কারামাজভ ভাইয়েরা ১ম খণ্ড",
+      "book_starting_letter": "ক",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফিওদর দস্তয়েভস্কি",
+      "link_to_download": "https://drive.google.com/file/d/1OCTt1GAIq_xNz7lK-1hBODMiu0ukZLf_/view?usp=sharing"
+    },
+    {
+      "book_id": "287",
+      "book_name": "রূপান্তর",
+      "book_starting_letter": "র",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফ্রানস কাফকা",
+      "link_to_download": "https://drive.google.com/file/d/11VcG0eC3ntRY--fhlQmE9oqLSLhoA0-J/view?usp=sharing"
+    },
+    {
+      "book_id": "288",
+      "book_name": "ট্রায়াল বা বিচার",
+      "book_starting_letter": "ট",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফ্রান্স কাফকা",
+      "link_to_download": "https://drive.google.com/open?id=1VAH46YzL6Q4VuooZ_Z8M8XK76Ao7weGL"
+    },
+    {
+      "book_id": "289",
+      "book_name": "মায়াবতী",
+      "book_starting_letter": "ম",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফ্রাঁসোয়া মরিয়াক",
+      "link_to_download": "https://drive.google.com/file/d/1Is2HoUpN5Gxa0K0El_R6EgK66wdRoRZv/view?usp=sharing"
+    },
+    {
+      "book_id": "290",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "বিশ্ব সাহিত্য",
+      "link_to_download": "https://drive.google.com/file/d/1PnAVhbXbdpL5PRio3GJve2YuSAEPivrA/view?usp=sharing"
+    },
+    {
+      "book_id": "291",
+      "book_name": "বিশ্বের সেরা প্রেমের গল্প",
+      "book_starting_letter": "ব",
+      "book_type": "অনুবাদ",
+      "writer_name": "-ডঃ অভিজিৎ দত্ত",
+      "link_to_download": "http://www.mediafire.com/file/9p2hfyd7unbggx0/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%B0_%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA__%E0%A5%A4%E0%A5%A4__%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%A1%E0%A6%BE%E0%A6%83__%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A7%8E_%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%A4_.pdf"
+    },
+    {
+      "book_id": "292",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "বিশ্ব",
+      "link_to_download": "https://drive.google.com/open?id=0BxNxV0HDEKlhcngtSWd3dTVKam8"
+    },
+    {
+      "book_id": "293",
+      "book_name": "এক অবিস্মরণীয় জীবন",
+      "book_starting_letter": "এ",
+      "book_type": "অনুবাদ",
+      "writer_name": "ভ্যান গগ",
+      "link_to_download": "https://drive.google.com/file/d/1fwTrNMtjkvYHirN3tubUYTYh-SzIaMAJ/view?usp=sharing"
+    },
+    {
+      "book_id": "294",
+      "book_name": "জীবন নিয়ে উপন্যাস) --আরভিং স্টোন",
+      "book_starting_letter": "জ",
+      "book_type": "অনুবাদ",
+      "writer_name": "জীবন পিয়াসা (ভ্যান গগ",
+      "link_to_download": "https://drive.google.com/file/d/1gMOHHoVupr3I4wFU0bsAvG7YrWWO_rPd/view?usp=sharing"
+    },
+    {
+      "book_id": "295",
+      "book_name": "সেরা প্রেমের গল্প",
+      "book_starting_letter": "স",
+      "book_type": "অনুবাদ",
+      "writer_name": "মঁপাশা",
+      "link_to_download": "https://drive.google.com/file/d/10e3HY2BExLLCY4-sOXCVrR-mw73VH32q/view?usp=sharing"
+    },
+    {
+      "book_id": "296",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "মঁপাশা",
+      "link_to_download": "https://drive.google.com/file/d/1Tnkuh3HLA_QRiatQ3c4aqWx6cRUsVGgf/view?usp=sharing"
+    },
+    {
+      "book_id": "297",
+      "book_name": "শ্রেষ্ঠ গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "মান্টো",
+      "link_to_download": "https://drive.google.com/open?id=1P8qfiNxJ8xdkRLAo-zSp04Ny2GqwLM8n"
+    },
+    {
+      "book_id": "298",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "মার্ক টোয়েন",
+      "link_to_download": "https://drive.google.com/file/d/1PCZ-tDIIapcF2C2ZkjSN5mWwzbsegfYL/view?usp=sharing"
+    },
+    {
+      "book_id": "299",
+      "book_name": "গল্পসমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "মিলান কুন্দেরা",
+      "link_to_download": "https://drive.google.com/open?id=1C0Vk65km7xrygdA1FSllEJEssgwX-Ri3"
+    },
+    {
+      "book_id": "300",
+      "book_name": "অস্তত্ত্বে অসহনীয় লঘুতা",
+      "book_starting_letter": "অ",
+      "book_type": "অনুবাদ",
+      "writer_name": "মিলন কুন্দেরা",
+      "link_to_download": "https://drive.google.com/file/d/1PiCPcrlcYuw6Xs4dDf1a-Jv3TK79K4Um/view?usp=sharing"
+    },
+    {
+      "book_id": "301",
+      "book_name": "শ্রেষ্ঠ বিদেশী গল্প",
+      "book_starting_letter": "শ",
+      "book_type": "অনুবাদ",
+      "writer_name": "শেখর বসু",
+      "link_to_download": "https://drive.google.com/file/d/1-CS9m0i7saHnngcsPl6BpePTaS6OlsGm/view?usp=sharing"
+    },
+    {
+      "book_id": "302",
+      "book_name": "সমুদ্রতটে কাফকা",
+      "book_starting_letter": "স",
+      "book_type": "অনুবাদ",
+      "writer_name": "হারুকি মুরাকামি",
+      "link_to_download": "https://drive.google.com/open?id=1lJROEhpDe1iIWTPAC4P2yXYKZN70QKBj"
+    },
+    {
+      "book_id": "303",
+      "book_name": "কথাসমগ্র এবং পেদ্রো পারামো",
+      "book_starting_letter": "ক",
+      "book_type": "অনুবাদ",
+      "writer_name": "হুয়াম রুলফো'",
+      "link_to_download": "https://drive.google.com/open?id=1bz0FdMuaIAi90RzzyNs8YOsXl_SN3e9A"
+    },
+    {
+      "book_id": "304",
+      "book_name": "গল্প সমগ্র",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "হোর্হে লুইস বোরহেস",
+      "link_to_download": "https://drive.google.com/file/d/1BKvavmVOihCZ7eSkORbbqTNnwi_aAsWN/view?usp=sharing"
+    },
+    {
+      "book_id": "305",
+      "book_name": "গল্প সঙ্কলন",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "আন্তন চেকভ",
+      "link_to_download": "https://drive.google.com/open?id=1xChKK2NBfAamG76NdtQG-Mlz1loAfvt-"
+    },
+    {
+      "book_id": "306",
+      "book_name": "ইভান দেনিসোভিচ",
+      "book_starting_letter": "ই",
+      "book_type": "অনুবাদ",
+      "writer_name": "আলেক্সান্ডার সলজেনিৎসিন",
+      "link_to_download": "https://drive.google.com/file/d/1dOql7T2v616u0NxHW-QJj_2qxYAgyPZe/view?usp=share_link"
+    },
+    {
+      "book_id": "307",
+      "book_name": "গল্প সংগ্রহ",
+      "book_starting_letter": "গ",
+      "book_type": "অনুবাদ",
+      "writer_name": "ইভান বুনিন",
+      "link_to_download": "https://drive.google.com/file/d/1uATKUfv5wRnNpfNaaVrlnL0qPUbL475N/view?usp=sharing"
+    },
+    {
+      "book_id": "308",
+      "book_name": "ও রূপকথা",
+      "book_starting_letter": "ও",
+      "book_type": "অনুবাদ",
+      "writer_name": "কনস্টানটিন উশিনক্সি",
+      "link_to_download": "https://drive.google.com/file/d/1vkHX50p0uaxYdqifNsZFWdyOf3hTcy0w/view?usp=sharing"
+    },
+    {
+      "book_id": "309",
+      "book_name": "কেন্টারবারি টেলস",
+      "book_starting_letter": "ক",
+      "book_type": "অনুবাদ",
+      "writer_name": "চসা",
+      "link_to_download": "https://drive.google.com/file/d/1N3SGVAbDl4xrsCx6Y0ymN5HYvXdeE2mO/view?usp=sharing"
+    },
+    {
+      "book_id": "310",
+      "book_name": "অশ্রুমতী",
+      "book_starting_letter": "অ",
+      "book_type": "অনুবাদ",
+      "writer_name": "তুর্গেনিভ",
+      "link_to_download": "https://drive.google.com/file/d/11OYVyYho7RC9lBTG3DYhW0oObKdfbkQn/view?usp=share_link"
+    },
+    {
+      "book_id": "311",
+      "book_name": "তারাশ বুলবা",
+      "book_starting_letter": "ত",
+      "book_type": "অনুবাদ",
+      "writer_name": "নিকোলাই গোগল",
+      "link_to_download": "https://drive.google.com/file/d/1jRARiHbmoOQMqVqpT7pBwnNQF8z2A6Rz/view?usp=sharing"
+    },
+    {
+      "book_id": "312",
+      "book_name": "রচনাবলী--১ম খণ্ড",
+      "book_starting_letter": "র",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফিউদর দস্তয়েভস্কি",
+      "link_to_download": "https://drive.google.com/file/d/1ahxRGRcqZBlT2ivJeirvRNZg8tL8AgOH/view?usp=sharing"
+    },
+    {
+      "book_id": "313",
+      "book_name": "লেককদের লেখক--যজ্ঞেশ্বর রায়",
+      "book_starting_letter": "ল",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফিউদর দস্তয়েফস্কি",
+      "link_to_download": "https://drive.google.com/file/d/12Xv-0wYU-ejAZYV9C4-BsBx1Z_CjnhwV/view?usp=sharing"
+    },
+    {
+      "book_id": "314",
+      "book_name": "কারামাজভ ভাইয়েরা ১ম খণ্ড",
+      "book_starting_letter": "ক",
+      "book_type": "অনুবাদ",
+      "writer_name": "ফিউদর দস্তয়েভস্কি",
+      "link_to_download": "https://drive.google.com/file/d/1OCTt1GAIq_xNz7lK-1hBODMiu0ukZLf_/view?usp=share_link"
+    },
+    {
+      "book_id": "315",
+      "book_name": "ধীর প্রবাহিনী",
+      "book_starting_letter": "ধ",
+      "book_type": "অনুবাদ",
+      "writer_name": "মিখাইল শলোকভ",
+      "link_to_download": "https://drive.google.com/file/d/1wcAZH6R6-TxVMaIKQHCq-9bgtEiFYVqc/view?usp=sharing"
+    },
+    {
+      "book_id": "316",
+      "book_name": "রুশ গল্প সংকলন-১",
+      "book_starting_letter": "র",
+      "book_type": "অনুবাদ",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=14QP3_1oQD9jLACFfwIp9pqhHZFSe6eX6"
+    },
+    {
+      "book_id": "317",
+      "book_name": "রুশ গল্প সংকলন",
+      "book_starting_letter": "র",
+      "book_type": "অনুবাদ",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/0B3A4gQr6r3juLVVGaWowbUpjSUk/view?usp=sharing"
+    },
+    {
+      "book_id": "318",
+      "book_name": "রাসসুন্দরী দেবী (বাংলা ভাষার প্রথম আত্মজীবনী)",
+      "book_starting_letter": "র",
+      "book_type": "অন্যান্য",
+      "writer_name": "আমার জীবন",
+      "link_to_download": "https://drive.google.com/file/d/1x2mGZB2O7NfkTPiEvyevrkV9lApb3eQd/view?usp=share_link"
+    },
+    {
+      "book_id": "319",
+      "book_name": "সবারে আমি নমি",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "কাননবালা",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsYnVOS1RJRi1BRTQ"
+    },
+    {
+      "book_id": "320",
+      "book_name": "পাবলো নেরুদার স্মৃতিকথা",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsUjJrc25ZNjNPTUk"
+    },
+    {
+      "book_id": "321",
+      "book_name": "আঠারো শতকের পুঁথিতে ইতিহাস প্রসঙ্গ",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "অণিমা মুখোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/open?id=1Mc3bqRwWF0La5eNYJALbDDBMcjx3bHhA"
+    },
+    {
+      "book_id": "322",
+      "book_name": "আইন ই আকবর",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1C0wRxH33ZhOiltLAuwoyPv6X_EAA1L65/view?usp=share_link"
+    },
+    {
+      "book_id": "323",
+      "book_name": "সংস্কৃতির ভাঙা সেতু",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "আখতারুজ্জামান ইলিয়াস",
+      "link_to_download": "https://drive.google.com/file/d/192wf0bTnYfydAn1PHHZiR5h_avpSiYxF/view?usp=share_link"
+    },
+    {
+      "book_id": "324",
+      "book_name": "আখতারুজ্জামান ইলিয়াসের সাহিত্য জীবন",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1SMNE8inlYVUzZ9KK17fWL9dGjLykmv6u/view?usp=share_link"
+    },
+    {
+      "book_id": "325",
+      "book_name": "গল্পচর্চা",
+      "book_starting_letter": "গ",
+      "book_type": "অন্যান্য",
+      "writer_name": "উজ্জ্বলকুমার মজুমদা",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBsUUw0LUJnb1hibGs"
+    },
+    {
+      "book_id": "326",
+      "book_name": "উনিশ শতকের নকশা",
+      "book_starting_letter": "উ",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/13nHfMMUMS2nxwHL1aXcOMZvh6qglB5Md/view?usp=share_link"
+    },
+    {
+      "book_id": "327",
+      "book_name": "দেবীপদ ভট্টাচার্য",
+      "book_starting_letter": "দ",
+      "book_type": "অন্যান্য",
+      "writer_name": "উপন্যাসের কথা",
+      "link_to_download": "https://drive.google.com/file/d/1CNG5ggj1BRVgKR9q2pP10p_fDPzaz7Eh/view?usp=share_link"
+    },
+    {
+      "book_id": "328",
+      "book_name": "ভেদাভেদের কথাসাহিত্য",
+      "book_starting_letter": "ভ",
+      "book_type": "অন্যান্য",
+      "writer_name": "গৌতম দস্তিদা",
+      "link_to_download": "https://drive.google.com/open?id=1Houua6SF_sEoES7ift65mTd2rrCX-mtI"
+    },
+    {
+      "book_id": "329",
+      "book_name": "চিঠিপত্রে সমাজচিত্র",
+      "book_starting_letter": "চ",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=10FNtk7HbFCaDgMGHCFIvsOLyfYXZbt-K"
+    },
+    {
+      "book_id": "330",
+      "book_name": "ছোটগল্পের পর্ব-পর্বান্তর --সুখেন্দ্র ভট্টাচার্য",
+      "book_starting_letter": "ছ",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1GFWOMlVnbVVL1sBTfukvYN23w9GS6eZ8/view?usp=sharing"
+    },
+    {
+      "book_id": "331",
+      "book_name": "রোঁলা বার্ত তার পাঠকৃতি",
+      "book_starting_letter": "র",
+      "book_type": "অন্যান্য",
+      "writer_name": "তপোধীর ভট্টাচার্য",
+      "link_to_download": "https://drive.google.com/file/d/1fdF2TKUEofbnXlCHts5yZxZ7ZRS-TpwH/view?usp=sharing"
+    },
+    {
+      "book_id": "332",
+      "book_name": "প্রতীচ্যের সাহিত্য তত্ত্ব",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "তপোধীর ভতটাচাযয্",
+      "link_to_download": "https://drive.google.com/file/d/1E-ZsvWj0F7LKFmFWlIbkTrvl_9K7ILuO/view?usp=sharing"
+    },
+    {
+      "book_id": "333",
+      "book_name": "তৃতীয় বিশ্বের সাহিত্য",
+      "book_starting_letter": "ত",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=0B_Bg2ITm0BBseXZTNHJIR2ZDY0E"
+    },
+    {
+      "book_id": "334",
+      "book_name": "নিম্নবর্গের ইতিহাস",
+      "book_starting_letter": "ন",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=12Dxa_a118NhZuEi6VkVl_iAZijQ5wsxo"
+    },
+    {
+      "book_id": "335",
+      "book_name": "শরণকুমার লিম্বালে",
+      "book_starting_letter": "শ",
+      "book_type": "অন্যান্য",
+      "writer_name": "দলিত নন্দনতত্ত্ব",
+      "link_to_download": "https://drive.google.com/open?id=0B1-JiMezeE3NWTdhRFlPLVdiUmc"
+    },
+    {
+      "book_id": "336",
+      "book_name": "সাহিত্যে ছোটগল্প",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "নারায়ণ গঙ্গোপাধ্যায়",
+      "link_to_download": "https://drive.google.com/file/d/1evkc0wTXU_cIRMal6xMu0wn8r33w5GYm/view?usp=sharing"
+    },
+    {
+      "book_id": "337",
+      "book_name": "নিয়ে",
+      "book_starting_letter": "ন",
+      "book_type": "অন্যান্য",
+      "writer_name": "দেবেশ রায়",
+      "link_to_download": "https://drive.google.com/open?id=1L1LuJh-xPkq2fm7peYO1Zuw1fZqv-Slt"
+    },
+    {
+      "book_id": "338",
+      "book_name": "পুরাতন বাংলা গদ্য",
+      "book_starting_letter": "প",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1I3fVsg74IN_TX2gNDxzF4-_161Y8q_0J/view?usp=sharing"
+    },
+    {
+      "book_id": "339",
+      "book_name": "আনন্দনাথ রায় প্রণীত",
+      "book_starting_letter": "আ",
+      "book_type": "অন্যান্য",
+      "writer_name": "ফরিদপুরের ইতিহাস",
+      "link_to_download": "https://drive.google.com/open?id=1geH--XXWzfCOLEObTW3Ta7kJeo5lM9c1"
+    },
+    {
+      "book_id": "340",
+      "book_name": "বাংলার কয়েকটি কিংবদন্তী",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=0B_jrC3lFFRh-S1g2T19fRU5ZcWM"
+    },
+    {
+      "book_id": "341",
+      "book_name": "রফিকউল্লাহ খান",
+      "book_starting_letter": "র",
+      "book_type": "অন্যান্য",
+      "writer_name": "বাংলাদেশ",
+      "link_to_download": "https://drive.google.com/file/d/1xYxmpAvhduNO1flL7F1SfuaVec2nuQ9A/view?usp=sharing"
+    },
+    {
+      "book_id": "342",
+      "book_name": "লেখা নিয়ে কথা",
+      "book_starting_letter": "ল",
+      "book_type": "অন্যান্য",
+      "writer_name": "শাহাদুজ্জামান",
+      "link_to_download": "https://drive.google.com/file/d/1GVC7z9xs0TVyyYKLAmWJJV8vgTCLkxxW/view?usp=sharing"
+    },
+    {
+      "book_id": "343",
+      "book_name": "কথাসাহিত্য--সম্পাদনা আলোক রায়",
+      "book_starting_letter": "ক",
+      "book_type": "অন্যান্য",
+      "writer_name": "সাহিত্যকোষ",
+      "link_to_download": "http://www.mediafire.com/file/v7o4vytd431iqpd/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8B%E0%A6%B7_%E0%A6%83_%E0%A6%95%E0%A6%A5%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF_%E0%A5%A4%E0%A5%A4_%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A6%BE_%E0%A6%85%E0%A6%B2%E0%A7%8B%E0%A6%95_%E0%A6%B0%E0%A6%BE%E0%A7%9F.pdf"
+    },
+    {
+      "book_id": "344",
+      "book_name": "১৬টি সাক্ষাৎকার",
+      "book_starting_letter": "ট",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "http://www.mediafire.com/file/ygdq5meebumdx55/%E0%A7%A7%E0%A7%AC%E0%A6%9F%E0%A6%BF_%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%8E%E0%A6%95%E0%A6%BE%E0%A6%B0_%E0%A5%A4%E0%A5%A4_%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A6%BE_%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%AE_%E0%A6%9A%E0%A7%8C%E0%A6%A7%E0%A7%81%E0%A6%B0%E0%A7%80.pdf"
+    },
+    {
+      "book_id": "345",
+      "book_name": "সাহিত্য পাঠকের ডায়েরি",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/17db_nCGx8b6_Ifv8ER_f5NrDRHCnKpJK/view?usp=sharing"
+    },
+    {
+      "book_id": "346",
+      "book_name": "চক্রবর্তী সম্পাদিত বুদ্ধিজীবীর নোটবই",
+      "book_starting_letter": "চ",
+      "book_type": "অন্যান্য",
+      "writer_name": "সুধী",
+      "link_to_download": "https://drive.google.com/open?id=1XRli_zmno91-XsteLYjC8xaTB6-ZooZ2"
+    },
+    {
+      "book_id": "347",
+      "book_name": "সাহিত্য টিকা",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "সনৎ মিত্",
+      "link_to_download": "https://drive.google.com/open?id=1I2lM1Bq8z9x1pOrKTcSrQzYFK_zoNr_p"
+    },
+    {
+      "book_id": "348",
+      "book_name": "বাংলা সাহিত্যে আত্মজীবনী",
+      "book_starting_letter": "ব",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/open?id=1SuUh_4zMOtIB-_BQYkaPeL2Th8c3ELUQ"
+    },
+    {
+      "book_id": "349",
+      "book_name": "কবীর চৌধুরী",
+      "book_starting_letter": "ক",
+      "book_type": "অন্যান্য",
+      "writer_name": "বিশ্বসাহিত্যের নয় রত্ন",
+      "link_to_download": "https://drive.google.com/open?id=15AMGZ_lerJ_tH7Yov9VhtuBbvs2iEmrp"
+    },
+    {
+      "book_id": "350",
+      "book_name": "স্রোতের বিপরীতে জ্যোতিরিন্দ্রনাথ",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1Edjh_WbC19zMBhEvC8inYx85fY12P6pL/view?usp=sharing"
+    },
+    {
+      "book_id": "351",
+      "book_name": "স্মৃতির শহর ঢাকা--শামসুর রাহমান",
+      "book_starting_letter": "স",
+      "book_type": "অন্যান্য",
+      "writer_name": "",
+      "link_to_download": "https://drive.google.com/file/d/1FZd5gX5pXG54pLnI0Gm3aHpFSTmTWzO1/view?usp=sharing"
+    }
+  ]
 }
