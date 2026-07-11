@@ -24,7 +24,7 @@ jobs:
       - name: Generate sheet JSON files
         env:
           SHEET_API_URL: ${{ secrets.SHEET_API_URL }}
-        run: node scripts/update-sheet-index.js
+        run: node scripts/update-sheet-index.cjs
 
       - name: Commit updated sheet JSON
         run: |
