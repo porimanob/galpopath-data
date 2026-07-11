@@ -1,0 +1,34 @@
+name: Update Galpopath full post archive
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-full-post-archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate full post archive
+        run: node scripts/update-full-post-archive.js
+        env:
+          BLOGGER_API_KEY: ${{ secrets.BLOGGER_API_KEY }}
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+
+      - name: Commit updated full archive JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Galpopath full post archive
+          file_pattern: data/post-archive-full.json
