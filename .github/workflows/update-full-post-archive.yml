@@ -31,4 +31,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update Galpopath full post archive
-          file_pattern: data/post-archive-full.json
+          file_pattern: data/full-posts/*.json
