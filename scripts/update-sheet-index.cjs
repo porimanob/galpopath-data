@@ -24,11 +24,21 @@ async function fetchJson(url) {
   return response.json();
 }
 
-function normalizeList(data) {
+function normalizeList(data, sheetName) {
   if (Array.isArray(data)) return data;
+
+  if (sheetName === 'Authors' && Array.isArray(data.authors)) {
+    return data.authors;
+  }
+
+  if (sheetName === 'Books' && Array.isArray(data.books)) {
+    return data.books;
+  }
+
   if (Array.isArray(data.items)) return data.items;
   if (Array.isArray(data.data)) return data.data;
   if (Array.isArray(data.rows)) return data.rows;
+
   return [];
 }
 
@@ -64,8 +74,8 @@ async function main() {
   const authorsRaw = await fetchJson(buildUrl('Authors'));
   const booksRaw = await fetchJson(buildUrl('Books'));
 
-  const authors = normalizeList(authorsRaw);
-  const books = normalizeList(booksRaw);
+  const authors = normalizeList(authorsRaw, 'Authors');
+  const books = normalizeList(booksRaw, 'Books');
 
   const outputDir = path.join(process.cwd(), 'data', 'sheets');
 
