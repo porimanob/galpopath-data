@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '15 20 * * *'
 
+concurrency:
+  group: galpopath-data-updates
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -32,4 +36,3 @@ jobs:
         with:
           commit_message: Update Galpopath post index
           file_pattern: data/post-index.json
-
