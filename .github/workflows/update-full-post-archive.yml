@@ -3,7 +3,7 @@ name: Update Galpopath full post archive
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 6 * * *'
+    - cron: '30 8 * * *'
 
 concurrency:
   group: galpopath-data-updates
