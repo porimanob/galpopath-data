@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '45 6 * * *'
 
+concurrency:
+  group: galpopath-data-updates
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
