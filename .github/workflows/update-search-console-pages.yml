@@ -1,0 +1,38 @@
+name: Update Galpopath Search Console pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 21 * * *'
+
+concurrency:
+  group: galpopath-search-console-updates
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-search-console-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Search Console page index
+        run: node scripts/update-search-console-pages.js
+        env:
+          GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+          SEARCH_CONSOLE_SITE_URL: https://www.galpopath.com/
+
+      - name: Commit updated Search Console JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Galpopath Search Console pages
+          file_pattern: data/search-console-pages.json
