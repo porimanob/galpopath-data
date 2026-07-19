@@ -1,0 +1,39 @@
+name: Update Galpopath analytics pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 20 * * *'
+
+concurrency:
+  group: galpopath-analytics-updates
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-analytics-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate analytics page index
+        run: node scripts/update-analytics-pages.js
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+          GA_SITE_URL: https://www.galpopath.com
+
+      - name: Commit updated analytics JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Galpopath analytics pages
+          file_pattern: data/analytics-pages.json
