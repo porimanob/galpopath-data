@@ -3,10 +3,10 @@ name: Update Galpopath analytics pages
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 20 * * *'
+    - cron: '15 21 * * *'
 
 concurrency:
-  group: galpopath-analytics-updates
+  group: galpopath-data-updates
   cancel-in-progress: false
 
 permissions:
