@@ -3,10 +3,10 @@ name: Update Galpopath Search Console pages
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 21 * * *'
+    - cron: '45 21 * * *'
 
 concurrency:
-  group: galpopath-search-console-updates
+  group: galpopath-data-updates
   cancel-in-progress: false
 
 permissions:
